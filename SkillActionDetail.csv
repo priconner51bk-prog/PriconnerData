@@ -1,4 +1,4 @@
-unit_id,category,UseDefaultDelay,ActionId,Time
+unit_id,category,use_default_delay,action_id,time
 100101,Attack,1,0,13
 100101,MainSkillList,1,100100201,54
 100101,MainSkillList,1,100100302,57
