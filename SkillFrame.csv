@@ -1,333 +1,333 @@
 unit_id,unit_name,attack,skill1,skill2,skillsp1
-100101,Hiyori,62,120,110,0
-100201,Yui,84,120,128,0
+100101,Hiyori,63,121,111,0
+100201,Yui,85,121,129,0
 100301,Rei,71,131,23,0
-100401,Misogi,62,102,125,0
-100501,Matsuri,65,116,140,0
-100601,Akari,71,125,120,0
-100701,Miyako,92,390,188,0
-100801,Yuki,84,101,120,0
-100901,Anna,68,84,215,0
-101001,Maho,84,125,89,0
-101101,Rino,90,140,114,0
-101201,Hatsune,84,120,120,0
-101301,Nanaka,84,149,140,0
-101401,Kasumi,84,143,134,0
-101501,Misato,84,149,120,0
-101601,Suzuna,90,203,120,203
-101701,Kaori,62,120,120,0
-101801,Io,68,116,137,0
-102001,Mimi,68,144,170,0
-102101,Kurumi,92,120,120,0
-102201,Yori,71,120,137,0
-102301,Ayane,92,120,131,0
-102501,Suzume,84,120,128,0
+100401,Misogi,63,103,125,0
+100501,Matsuri,65,117,141,0
+100601,Akari,71,125,121,0
+100701,Miyako,93,391,189,0
+100801,Yuki,85,101,121,0
+100901,Anna,69,85,215,0
+101001,Maho,85,125,89,0
+101101,Rino,91,141,115,0
+101201,Hatsune,85,121,121,0
+101301,Nanaka,85,149,141,0
+101401,Kasumi,85,143,135,0
+101501,Misato,85,149,121,0
+101601,Suzuna,91,203,121,203
+101701,Kaori,63,121,121,0
+101801,Io,69,117,137,0
+102001,Mimi,69,145,171,0
+102101,Kurumi,93,121,121,0
+102201,Yori,71,121,137,0
+102301,Ayane,93,121,131,0
+102501,Suzume,85,121,129,0
 102601,Rin,71,161,161,0
-102701,Eriko,92,120,120,0
-102801,Saren,71,120,120,0
-102901,Nozomi,71,120,96,0
-103001,Ninon,68,84,144,0
-103101,Shinobu,68,113,74,0
-103201,Akino,68,125,188,0
-103301,Mahiru,71,120,120,0
-103401,Yukari,68,120,137,0
-103601,Kyoka,84,131,110,0
-103701,Tomo,71,150,113,0
-103801,Shiori,90,158,114,0
-104001,Aoi,90,140,140,0
-104201,Chika,84,126,95,0
-104301,Makoto,68,120,74,0
-104401,Illya,92,120,137,0
-104501,Kuuka,65,180,120,0
-104601,Tamaki,65,108,108,0
-104701,Jun,68,174,150,0
-104801,Mifuyu,71,120,116,0
-104901,Shizuru,68,120,120,0
-105001,Misaki,84,120,150,0
-105101,Mitsuki,68,110,179,0
-105201,Lima,71,0,113,0
-105301,Monika,71,140,152,0
-105401,Tsumugi,62,144,131,0
-105501,Ayumi,71,170,260,0
+102701,Eriko,93,121,121,0
+102801,Saren,71,121,121,0
+102901,Nozomi,71,121,97,0
+103001,Ninon,69,85,145,0
+103101,Shinobu,69,113,75,0
+103201,Akino,69,125,189,0
+103301,Mahiru,71,121,121,0
+103401,Yukari,69,121,137,0
+103601,Kyoka,85,131,111,0
+103701,Tomo,71,151,113,0
+103801,Shiori,91,159,115,0
+104001,Aoi,91,141,141,0
+104201,Chika,85,127,95,0
+104301,Makoto,69,121,75,0
+104401,Illya,93,121,137,0
+104501,Kuuka,65,181,121,0
+104601,Tamaki,65,109,109,0
+104701,Jun,69,175,151,0
+104801,Mifuyu,71,121,117,0
+104901,Shizuru,69,121,121,0
+105001,Misaki,85,121,151,0
+105101,Mitsuki,69,111,179,0
+105201,Lima,71,1,113,0
+105301,Monika,71,141,153,0
+105401,Tsumugi,63,145,131,0
+105501,Ayumi,71,171,261,0
 105601,Ruka,71,77,161,0
-105701,Djeeta,71,120,120,0
-105801,Pecorine,68,182,122,0
-105901,Kokkoro,71,164,120,0
-106001,Kyaru,84,128,155,0
+105701,Djeeta,71,121,121,0
+105801,Pecorine,69,183,123,0
+105901,Kokkoro,71,165,121,0
+106001,Kyaru,85,129,155,0
 106101,Muimi,65,161,161,0
-106301,Arisa,90,114,150,0
-106401,Sheffy,71,128,161,101
-106501,Kaya,62,140,161,0
-106601,Inori,92,161,161,0
-106701,Homare,84,161,126,101
+106301,Arisa,91,115,151,0
+106401,Sheffy,71,129,161,101
+106501,Kaya,63,141,161,0
+106601,Inori,93,161,161,0
+106701,Homare,85,161,127,101
 106801,Labyrista,71,161,161,161
-106901,Kaiser Insight,92,161,161,92
-107001,Neneka,80,140,161,0
-107101,Christina,71,161,90,0
-107501,Pecorine (Summer),68,185,120,0
+106901,Kaiser Insight,93,161,161,93
+107001,Neneka,81,141,161,0
+107101,Christina,71,161,91,0
+107501,Pecorine (Summer),69,185,121,0
 107601,Kokkoro (Summer),71,155,161,0
-107701,Suzume (Summer),84,144,140,0
-107801,Kyaru (Summer),84,161,137,0
-107901,Tamaki (Summer),65,158,113,0
-108001,Mifuyu (Summer),71,132,125,0
-108101,Shinobu (Halloween),92,119,125,0
-108201,Miyako (Halloween),62,167,161,0
-108301,Misaki (Halloween),84,161,161,0
-108401,Chika (Holiday),84,131,156,0
-108501,Kurumi (Holiday),92,35,134,0
-108601,Ayane (Holiday),92,108,114,0
-108701,Hiyori (New Year),62,120,125,0
-108801,Yui (New Year),84,120,131,0
-108901,Rei (New Year),71,54,120,0
-109001,Eriko (Valentine),92,158,156,0
-109101,Shizuru (Valentine),68,161,161,0
-109201,Anne,71,161,140,0
-109301,Lou,71,180,180,0
-109401,Grea,62,131,140,0
-109501,Kuuka (Ooedo),65,162,161,0
+107701,Suzume (Summer),85,145,141,0
+107801,Kyaru (Summer),85,161,137,0
+107901,Tamaki (Summer),65,159,113,0
+108001,Mifuyu (Summer),71,133,125,0
+108101,Shinobu (Halloween),93,119,125,0
+108201,Miyako (Halloween),63,167,161,0
+108301,Misaki (Halloween),85,161,161,0
+108401,Chika (Holiday),85,131,157,0
+108501,Kurumi (Holiday),93,35,135,0
+108601,Ayane (Holiday),93,109,115,0
+108701,Hiyori (New Year),63,121,125,0
+108801,Yui (New Year),85,121,131,0
+108901,Rei (New Year),71,55,121,0
+109001,Eriko (Valentine),93,159,157,0
+109101,Shizuru (Valentine),69,161,161,0
+109201,Anne,71,161,141,0
+109301,Lou,71,181,181,0
+109401,Grea,63,131,141,0
+109501,Kuuka (Ooedo),65,163,161,0
 109601,Ninon (Ooedo),65,161,161,0
-109701,Rem,90,137,161,0
-109801,Ram,90,161,161,0
+109701,Rem,91,137,161,0
+109801,Ram,91,161,161,0
 109901,Emilia,71,167,161,71
-110001,Suzuna (Summer),90,150,150,0
-110101,Io (Summer),68,161,161,0
-110201,Misaki (Summer),84,0,0,0
+110001,Suzuna (Summer),91,151,151,0
+110101,Io (Summer),69,161,161,0
+110201,Misaki (Summer),85,0,0,0
 110301,Saren (Summer),71,161,161,0
-110401,Makoto (Summer),68,161,143,0
-110501,Kaori (Summer),62,143,185,0
-110601,Maho (Summer),84,161,125,0
-110701,Aoi (Student),90,150,137,0
-110801,Chloe,65,161,170,0
-110901,Chieru,62,150,161,0
-111001,Yuni,71,170,170,0
-111101,Kyoka (Halloween),84,140,158,0
-111201,Misogi (Halloween),62,161,161,0
-111301,Mimi (Halloween),68,200,180,0
-111401,Luna,90,161,161,161
-111501,Christina (Holiday),71,161,146,0
-111601,Nozomi (Holiday),71,161,150,0
-111701,Illya (Holiday),92,156,161,0
-111801,Pecorine (New Year),71,161,140,0
-111901,Kokkoro (New Year),71,176,161,0
-112001,Kyaru (New Year),84,161,161,0
-112101,Suzume (New Year),84,161,161,0
-112201,Kasumi (Magical),84,161,161,0
-112301,Shiori (Magical),90,143,360,0
-112401,Uzuki (IM@S CG),71,140,155,0
+110401,Makoto (Summer),69,161,143,0
+110501,Kaori (Summer),63,143,185,0
+110601,Maho (Summer),85,161,125,0
+110701,Aoi (Student),91,151,137,0
+110801,Chloe,65,161,171,0
+110901,Chieru,63,151,161,0
+111001,Yuni,71,171,171,0
+111101,Kyoka (Halloween),85,141,159,0
+111201,Misogi (Halloween),63,161,161,0
+111301,Mimi (Halloween),69,201,181,0
+111401,Luna,91,161,161,161
+111501,Christina (Holiday),71,161,147,0
+111601,Nozomi (Holiday),71,161,151,0
+111701,Illya (Holiday),93,157,161,0
+111801,Pecorine (New Year),71,161,141,0
+111901,Kokkoro (New Year),71,177,161,0
+112001,Kyaru (New Year),85,161,161,0
+112101,Suzume (New Year),85,161,161,0
+112201,Kasumi (Magical),85,161,161,0
+112301,Shiori (Magical),91,143,361,0
+112401,Uzuki (IM@S CG),71,141,155,0
 112501,Rin (IM@S CG),71,161,161,0
-112601,Mio (IM@S CG),84,150,156,0
-112701,Rin (Ranger),71,200,161,0
+112601,Mio (IM@S CG),85,151,157,0
+112701,Rin (Ranger),71,201,161,0
 112801,Mahiru (Ranger),71,161,161,0
-112901,Rino (Wonderland),90,161,150,0
-113001,Ayumi (Wonderland),71,161,150,0
-113101,Ruka (Summer),71,161,140,0
-113201,Anna (Summer),90,161,125,0
-113301,Nanaka (Summer),84,161,161,0
-113401,Hatsune (Summer),71,180,161,0
-113501,Misato (Summer),84,161,161,0
-113601,Jun (Summer),68,161,161,0
-113701,Akari (Angel),84,161,170,0
-113801,Yori (Angel),71,150,161,0
-113901,Tsumugi (Halloween),65,161,150,0
-114001,Rei (Halloween),71,161,150,0
-114101,Matsuri (Halloween),62,90,161,0
-114201,Monika (Magical),71,156,158,0
+112901,Rino (Wonderland),91,161,151,0
+113001,Ayumi (Wonderland),71,161,151,0
+113101,Ruka (Summer),71,161,141,0
+113201,Anna (Summer),91,161,125,0
+113301,Nanaka (Summer),85,161,161,0
+113401,Hatsune (Summer),71,181,161,0
+113501,Misato (Summer),85,161,161,0
+113601,Jun (Summer),69,161,161,0
+113701,Akari (Angel),85,161,171,0
+113801,Yori (Angel),71,151,161,0
+113901,Tsumugi (Halloween),65,161,151,0
+114001,Rei (Halloween),71,161,151,0
+114101,Matsuri (Halloween),63,91,161,0
+114201,Monika (Magical),71,157,159,0
 114301,Tomo (Magical),71,161,161,71
-114401,Akino (Holiday),68,161,128,128
+114401,Akino (Holiday),69,161,129,129
 114501,Saren (Holiday),71,161,161,0
-114601,Yukari (Holiday),68,161,146,0
-114701,Muimi (New Year),65,0,108,0
-115001,Neneka (New Year),84,161,161,0
-115501,Kokkoro (Ceremonial),65,150,161,0
-115601,Yui (Ceremonial),84,161,161,0
-115701,Kasumi (Summer),84,161,161,0
-115801,Lima (Cinderella),71,137,140,0
-115901,Makoto (Cinderella),68,161,161,0
-116001,Maho (Cinderella),84,161,161,0
+114601,Yukari (Holiday),69,161,147,0
+114701,Muimi (New Year),65,1,109,0
+115001,Neneka (New Year),85,161,161,0
+115501,Kokkoro (Ceremonial),65,151,161,0
+115601,Yui (Ceremonial),85,161,161,0
+115701,Kasumi (Summer),85,161,161,0
+115801,Lima (Cinderella),71,137,141,0
+115901,Makoto (Cinderella),69,161,161,0
+116001,Maho (Cinderella),85,161,161,0
 116201,Chloe (School Festival),65,161,161,0
-116301,Chieru (School Festival),62,119,119,0
-116401,Yuni (School Festival),84,161,150,84
-116501,Inori (Time Traveller),92,158,161,0
-116601,Kaya (Time Traveller),62,110,150,0
-116701,Aoi (Work),90,161,161,0
-116801,Tamaki (Work),65,107,158,0
+116301,Chieru (School Festival),63,119,119,0
+116401,Yuni (School Festival),85,161,151,85
+116501,Inori (Time Traveller),93,159,161,0
+116601,Kaya (Time Traveller),63,111,151,0
+116701,Aoi (Work),91,161,161,0
+116801,Tamaki (Work),65,107,159,0
 116901,Mifuyu (Work),71,161,161,0
-117001,Eriko (Summer),92,146,180,0
-117101,Shizuru (Summer),68,161,152,0
+117001,Eriko (Summer),93,147,181,0
+117101,Shizuru (Summer),69,161,153,0
 117201,Nozomi (Summer),71,161,161,0
-117301,Chika (Summer),84,146,161,0
-117401,Tsumugi (Summer),62,161,161,0
-117501,Mitsuki (Ooedo),68,161,161,0
-117601,Yuki (Ooedo),84,161,146,0
-117701,Kaori (Halloween),62,161,161,0
-117801,Ninon (Halloween),65,131,180,0
-117901,Suzuna (Halloween),90,161,134,0
-118001,Creditta,71,144,134,0
-118101,Ranpha,84,161,161,101
-118201,Misora,68,161,152,131
-118501,Karin,90,161,161,90
+117301,Chika (Summer),85,147,161,0
+117401,Tsumugi (Summer),63,161,161,0
+117501,Mitsuki (Ooedo),69,161,161,0
+117601,Yuki (Ooedo),85,161,147,0
+117701,Kaori (Halloween),63,161,161,0
+117801,Ninon (Halloween),65,131,181,0
+117901,Suzuna (Halloween),91,161,135,0
+118001,Creditta,71,145,135,0
+118101,Ranpha,85,161,161,101
+118201,Misora,69,161,153,131
+118501,Karin,91,161,161,91
 118601,Nebbia,83,161,161,101
-119001,Io (Noir),84,156,140,0
+119001,Io (Noir),85,157,141,0
 119101,Kuuka (Noir),71,161,161,0
 119201,Mahiru (Holiday),71,161,161,0
-119301,Rino (Holiday),90,161,161,0
-119901,Miyako (Holiday),62,161,180,0
-120001,Shizuru (Noir),68,150,140,0
-120701,Sheffy (New Year),71,161,110,0
-120801,Ruka (New Year),71,161,140,161
-120901,Illya (New Year),92,161,161,0
-121001,Pecorine (Overload),68,161,161,0
-121101,Kyaru (Overload),84,161,161,0
-121201,Labyrista (Overload),71,161,134,74
-121301,Kurumi (Stage),92,140,161,0
-121401,Misaki (Stage),84,161,161,0
-121501,Ayumi (Phantom Thief),71,260,161,0
-121601,Inori (Phantom Thief),92,161,161,0
-121901,Anna (Pirate),68,161,161,0
-122001,Shinobu (Pirate),92,161,161,98
+119301,Rino (Holiday),91,161,161,0
+119901,Miyako (Holiday),63,161,181,0
+120001,Shizuru (Noir),69,151,141,0
+120701,Sheffy (New Year),71,161,111,0
+120801,Ruka (New Year),71,161,141,161
+120901,Illya (New Year),93,161,161,0
+121001,Pecorine (Overload),69,161,161,0
+121101,Kyaru (Overload),85,161,161,0
+121201,Labyrista (Overload),71,161,135,75
+121301,Kurumi (Stage),93,141,161,0
+121401,Misaki (Stage),85,161,161,0
+121501,Ayumi (Phantom Thief),71,261,161,0
+121601,Inori (Phantom Thief),93,161,161,0
+121901,Anna (Pirate),69,161,161,0
+122001,Shinobu (Pirate),93,161,161,99
 122101,Aoi (Camp),71,161,161,0
-122201,Yukari (Camp),71,144,161,0
-122301,Vampy,71,161,140,0
-122401,Hiyori (Summer),62,161,161,0
+122201,Yukari (Camp),71,145,161,0
+122301,Vampy,71,161,141,0
+122401,Hiyori (Summer),63,161,161,0
 122501,Rei (Summer),71,161,155,0
-122601,Yui (Summer),84,161,161,0
-122701,Kyoka (Summer),84,161,155,110
-122801,Misogi (Summer),62,140,161,0
-122901,Mimi (Summer),68,161,161,0
+122601,Yui (Summer),85,161,161,0
+122701,Kyoka (Summer),85,161,155,111
+122801,Misogi (Summer),63,141,161,0
+122901,Mimi (Summer),69,161,161,0
 123001,Ameth,83,161,161,83
-123101,Maho (Explorer),84,161,144,0
-123201,Ayane (Explorer),92,150,161,0
-123301,Nea,62,161,161,0
-123401,Jun (Camp),68,0,0,0
-123501,Rin (Halloween),71,144,161,0
+123101,Maho (Explorer),85,161,145,0
+123201,Ayane (Explorer),93,151,161,0
+123301,Nea,63,161,161,0
+123401,Jun (Camp),69,0,0,0
+123501,Rin (Halloween),71,145,161,0
 123601,Tomo (Halloween),71,143,161,0
-123701,Nanaka (Halloween),84,143,161,0
-123801,Christina (Wild),62,0,150,0
+123701,Nanaka (Halloween),85,143,161,0
+123801,Christina (Wild),63,1,151,0
 123901,Matsuri (Wild),65,161,161,0
-124001,Akari (Holiday),84,161,161,0
+124001,Akari (Holiday),85,161,161,0
 124101,Yori (Holiday),71,161,161,0
-124201,Jun (Holiday),68,155,161,0
-124501,Homare (New Year),84,128,126,0
-124601,Misato (New Year),84,158,161,0
-124701,Mitsuki (New Year),68,149,122,0
-124801,Nozomi (Liberator),71,158,143,0
-124901,Kaya (Liberator),62,150,140,0
-125001,Muimi (Liberator),68,161,144,0
+124201,Jun (Holiday),69,155,161,0
+124501,Homare (New Year),85,129,127,0
+124601,Misato (New Year),85,159,161,0
+124701,Mitsuki (New Year),69,149,123,0
+124801,Nozomi (Liberator),71,159,143,0
+124901,Kaya (Liberator),63,151,141,0
+125001,Muimi (Liberator),69,161,145,0
 125101,Tamaki (Cafe),65,161,161,0
-125201,Monika (Cafe),71,155,60,0
-125301,Kokkoro (Ranger),71,170,161,0
-125401,Shiori (Ranger),90,180,161,0
-125501,Djeeta (Warlock),84,161,101,0
-125601,Vikala,120,161,161,0
-125701,Karin (Alchemist),84,161,161,0
-125801,Riri (Fallen),86,161,161,84
-126001,Qulia (Fallen),86,132,101,84
-126101,Precia (Fallen),83,114,161,84
-126201,Illya (Ceremonial),92,161,161,131
-126301,Yuki (Ceremonial),84,161,161,0
-126401,Croce,62,161,113,161
+125201,Monika (Cafe),71,155,61,0
+125301,Kokkoro (Ranger),71,171,161,0
+125401,Shiori (Ranger),91,181,161,0
+125501,Djeeta (Warlock),85,161,101,0
+125601,Vikala,121,161,161,0
+125701,Karin (Alchemist),85,161,161,0
+125801,Riri (Fallen),87,161,161,85
+126001,Qulia (Fallen),87,133,101,85
+126101,Precia (Fallen),83,115,161,85
+126201,Illya (Ceremonial),93,161,161,131
+126301,Yuki (Ceremonial),85,161,161,0
+126401,Croce,63,161,113,161
 126501,Lyrael,83,161,161,161
-126601,Neneka (Summer),84,156,161,0
-126701,Akino (Summer),68,161,161,0
-126801,Yukari (Summer),68,161,161,0
-126901,Ranpha (Summer),84,161,161,0
+126601,Neneka (Summer),85,157,161,0
+126701,Akino (Summer),69,161,161,0
+126801,Yukari (Summer),69,161,161,0
+126901,Ranpha (Summer),85,161,161,0
 127001,Kuuka (Summer),65,161,161,0
-127101,Shinobu (Summer),68,161,180,0
-127201,Kyaru (Student),84,180,161,0
-127301,Suzuna (Student),90,161,161,0
+127101,Shinobu (Summer),69,161,181,0
+127201,Kyaru (Student),85,181,161,0
+127301,Suzuna (Student),91,161,161,0
 127501,Saren (Salasaria),71,161,161,0
 127601,Ruka (Salasaria),71,161,161,0
 127701,Lind,71,161,161,0
 127801,Wurm,65,53,161,161
-127901,Pecorine (Holiday),68,161,144,0
+127901,Pecorine (Holiday),69,161,145,0
 128001,Creditta (Holiday),71,161,161,0
-128301,Inori (New Year),92,161,71,0
-128401,Hatsune (New Year),84,161,161,0
-128501,Kasumi (New Year),84,110,161,0
-128701,Hiyori (Astral),62,120,143,0
+128301,Inori (New Year),93,161,71,0
+128401,Hatsune (New Year),85,161,161,0
+128501,Kasumi (New Year),85,111,161,0
+128701,Hiyori (Astral),63,121,143,0
 128801,Rei (Astral),71,155,161,0
-128901,Yui (Astral),84,161,161,0
-129001,Eris,83,161,161,120
-129301,Yuni (Winter),84,161,161,120
-129401,Chloe (Winter),65,161,143,114
-129501,Chieru (Winter),62,161,161,161
-129601,Anemone,68,161,161,150
-129701,Nephi Nella,92,161,161,110
-129801,Makoto (Commander),68,161,161,0
+128901,Yui (Astral),85,161,161,0
+129001,Eris,83,161,161,121
+129301,Yuni (Winter),85,161,161,121
+129401,Chloe (Winter),65,161,143,115
+129501,Chieru (Winter),63,161,161,161
+129601,Anemone,69,161,161,151
+129701,Nephi Nella,93,161,161,111
+129801,Makoto (Commander),69,161,161,0
 129901,Eriko (Commander),71,161,161,0
 130001,Yamato,83,161,161,161
-130101,Wakana,84,161,161,140
-130201,Fubuki,68,161,161,0
-130701,Kyoka (Spring),84,161,161,0
-130801,Suzume (Spring),84,161,161,0
-130901,Kururu,84,161,161,0
-131001,Maho (Dream Park),84,161,161,0
-131101,Nea (Summer),65,156,161,0
-131201,Misora (Summer),71,72,161,161
+130101,Wakana,85,161,161,141
+130201,Fubuki,69,161,161,0
+130701,Kyoka (Spring),85,161,161,0
+130801,Suzume (Spring),85,161,161,0
+130901,Kururu,85,161,161,0
+131001,Maho (Dream Park),85,161,161,0
+131101,Nea (Summer),65,157,161,1
+131201,Misora (Summer),71,73,161,161
 131601,Riri (Summer),71,161,161,0
-131701,Ameth (Summer),83,161,150,0
-131801,Homare (Summer),84,143,161,107
+131701,Ameth (Summer),83,161,151,0
+131801,Homare (Summer),85,143,161,107
 131901,Emilia (Summer),71,161,161,0
-132001,Echidna (Summer),84,161,161,161
-132101,Rem (Summer),90,120,161,0
-132201,Nozomi (Alchemist),84,161,161,0
-132301,Louise-Marie,84,161,161,0
-132401,Iroha,68,240,240,240
+132001,Echidna (Summer),85,161,161,161
+132101,Rem (Summer),91,121,161,0
+132201,Nozomi (Alchemist),85,161,161,0
+132301,Louise-Marie,85,161,161,0
+132401,Iroha,69,241,241,241
 132501,Sono,71,161,161,0
-132801,Lyrael (Holiday),83,140,161,0
-132901,Io (Holiday),68,161,161,161
+132801,Lyrael (Holiday),83,141,161,0
+132901,Io (Holiday),69,161,161,161
 133001,Grace,71,149,161,0
-133101,Violet,90,161,146,161
+133101,Violet,91,161,147,161
 133201,Monika (New Year),71,161,161,0
-133501,Saren (New Year),71,161,158,0
+133501,Saren (New Year),71,161,159,0
 133601,Medusa,83,161,161,0
-133701,Labyrista (Alpha),68,161,161,0
-133801,Neneka (Alpha),84,161,161,0
-133901,Christina (Alpha),71,150,161,0
+133701,Labyrista (Alpha),69,161,161,0
+133801,Neneka (Alpha),85,161,161,0
+133901,Christina (Alpha),71,151,161,0
 134001,Fio,83,161,161,0
-134301,Ranpha (Ceremonial),84,161,161,0
-134401,Chika (Ceremonial),84,161,161,0
-134501,Croce (Aerial),92,161,161,101
+134301,Ranpha (Ceremonial),85,161,161,0
+134401,Chika (Ceremonial),85,161,161,0
+134501,Croce (Aerial),93,161,161,101
 134601,Aoi (Pilot),71,161,161,0
-134701,Ho-oh,84,161,161,0
-134801,Tsumugi (Geo Gehenna),62,161,161,0
-134901,Kanon,65,0,0,140
-135001,Eris (Summer),84,146,143,161
+134701,Ho-oh,85,161,161,0
+134801,Tsumugi (Geo Gehenna),63,161,161,0
+134901,Kanon,65,1,1,141
+135001,Eris (Summer),85,147,143,161
 135101,Sheffy (Summer),71,161,161,0
-135201,Precia (Summer),84,161,161,0
+135201,Precia (Summer),85,161,161,0
 135301,Qulia (Summer),71,161,161,0
 135401,Anemone (Summer),65,161,161,0
 135501,Aira,65,161,161,65
-135601,Shinatsu,71,161,161,0
-135701,Hiyori (Salasaria),62,161,161,0
-135801,Yukino,80,161,161,0
-135901,Satsuki,92,8,161,161
-136001,Arachne,92,176,161,161
-136101,Sakura,86,161,161,161
-136201,Naana,92,161,161,0
+135601,Shinatsu,71,161,161,1
+135701,Hiyori (Salasaria),63,161,161,0
+135801,Yukino,81,161,161,0
+135901,Satsuki,93,9,161,161
+136001,Arachne,93,177,161,161
+136101,Sakura,87,161,161,161
+136201,Naana,93,161,161,0
 136301,Misora (Holiday),71,161,161,0
-136401,Yui (Holiday),84,161,161,161
-136501,Shizuru (New Year),68,161,161,0
+136401,Yui (Holiday),85,161,161,161
+136501,Shizuru (New Year),69,161,161,0
 137101,Ninon (Summer),65,161,161,0
-137401,Kasumi (Sister),84,161,161,161
-137601,Kokkoro (Little Guidance),92,161,161,0
-137901,Rino (New Year),90,161,155,0
-138001,Violet (Isanami),90,161,161,0
-138101,Lyrael (Perfect),80,161,161,161
-138201,Nephi Nella (Buddha),92,161,161,0
+137401,Kasumi (Sister),85,161,161,161
+137601,Kokkoro (Little Guidance),93,161,161,0
+137901,Rino (New Year),91,161,155,0
+138001,Violet (Isanami),91,161,161,1
+138101,Lyrael (Perfect),81,161,161,161
+138201,Nephi Nella (Buddha),93,161,161,0
 138301,Pecorine (Astraea),77,161,161,0
-138701,Wakana (Winter),84,161,161,0
-138801,Shiori (Wnter),90,161,161,0
-170101,Djeeta,78,161,140,0
-180101,Hiyori (Princess),62,150,161,0
-180201,Yui (Princess),84,161,161,0
-180301,Rei (Princess),71,161,110,0
-180401,Pecorine (Princess),68,161,161,0
+138701,Wakana (Winter),85,161,161,0
+138801,Shiori (Wnter),91,161,161,0
+170101,Djeeta,79,161,141,0
+180101,Hiyori (Princess),63,151,161,0
+180201,Yui (Princess),85,161,161,0
+180301,Rei (Princess),71,161,111,0
+180401,Pecorine (Princess),69,161,161,0
 180501,Kokkoro (Princess),71,161,161,0
-180601,Kyaru (Princess),84,161,161,0
-180701,Hatsune & Shiori,90,170,161,0
+180601,Kyaru (Princess),85,161,161,0
+180701,Hatsune & Shiori,91,171,161,0
 180801,Misogi & Mimi & Kyoka,95,161,149,0
-180901,Akino & Saren,86,161,161,0
-181001,Anne & Grea,80,161,161,0
-181101,Shizuru & Rino,86,161,161,0
-181201,Sheffy (Princess),80,161,161,161
+180901,Akino & Saren,87,161,161,0
+181001,Anne & Grea,81,161,161,0
+181101,Shizuru & Rino,87,161,161,0
+181201,Sheffy (Princess),81,161,161,161
