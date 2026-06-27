@@ -471,17 +471,17 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 103401,Yukari,MainSkillRevolutionList,1,103402202,54,53.999998569488525
 103401,Yukari,MainSkillRevolutionList,1,103402203,51,51.000001430511475
 103401,Yukari,MainSkillRevolutionList,1,103402204,54,53.999998569488525
-103601,Kyoka,Attack,1,0,0,0.0
-103601,Kyoka,MainSkillList,1,103600201,81,81.00000143051147
-103601,Kyoka,MainSkillList,1,103600301,0,0.0
-103601,Kyoka,MainSkillList,1,103600302,0,0.0
-103601,Kyoka,MainSkillEvolutionList,1,103601201,81,81.00000143051147
-103601,Kyoka,MainSkillRevolutionList,1,103602201,0,0.0
-103601,Kyoka,MainSkillRevolutionList,1,103602205,0,0.0
-103601,Kyoka,MainSkillRevolutionList,1,103602202,81,81.00000143051147
-103601,Kyoka,MainSkillRevolutionList,1,103602204,81,81.00000143051147
-103601,Kyoka,MainSkillRevolutionList,1,103602203,82,82.2000002861023
-103601,Kyoka,MainSkillRevolutionList,1,103602206,83,83.39999914169312
+103601,Kyouka,Attack,1,0,0,0.0
+103601,Kyouka,MainSkillList,1,103600201,81,81.00000143051147
+103601,Kyouka,MainSkillList,1,103600301,0,0.0
+103601,Kyouka,MainSkillList,1,103600302,0,0.0
+103601,Kyouka,MainSkillEvolutionList,1,103601201,81,81.00000143051147
+103601,Kyouka,MainSkillRevolutionList,1,103602201,0,0.0
+103601,Kyouka,MainSkillRevolutionList,1,103602205,0,0.0
+103601,Kyouka,MainSkillRevolutionList,1,103602202,81,81.00000143051147
+103601,Kyouka,MainSkillRevolutionList,1,103602204,81,81.00000143051147
+103601,Kyouka,MainSkillRevolutionList,1,103602203,82,82.2000002861023
+103601,Kyouka,MainSkillRevolutionList,1,103602206,83,83.39999914169312
 103701,Tomo,Attack,1,0,0,0.0
 103701,Tomo,MainSkillList,1,103700201,60,60.0
 103701,Tomo,MainSkillList,1,103700201,72,72.00000286102295
@@ -1088,46 +1088,46 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 108301,Misaki (Halloween),MainSkillEvolutionList,0,108301301,30,30.0
 108301,Misaki (Halloween),MainSkillEvolutionList,0,108301302,30,30.0
 108301,Misaki (Halloween),MainSkillEvolutionList,0,108301303,30,30.0
-108401,Chika (Holiday),Attack,1,0,0,0.0
-108401,Chika (Holiday),MainSkillList,1,108400201,48,48.00000071525574
-108401,Chika (Holiday),MainSkillList,1,108400301,60,60.0
-108401,Chika (Holiday),MainSkillList,1,108400302,60,60.0
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401201,0,0.0
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401202,48,48.00000071525574
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401203,48,48.00000071525574
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401301,54,53.999998569488525
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401303,60,60.0
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401304,60,60.0
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401302,57,56.99999928474426
-108401,Chika (Holiday),MainSkillEvolutionList,1,108401305,66,66.00000143051147
-108501,Kurumi (Holiday),Attack,1,0,24,24.00000035762787
-108501,Kurumi (Holiday),MainSkillList,1,108500201,0,0.0
-108501,Kurumi (Holiday),MainSkillList,1,108500301,84,83.99999856948853
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501201,0,0.0
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501202,0,0.0
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501203,0,0.0
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501301,83,82.7999997138977
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501302,83,82.7999997138977
-108501,Kurumi (Holiday),MainSkillEvolutionList,1,108501303,84,83.99999856948853
-108601,Ayane (Holiday),MainSkillList,1,108600201,60,60.0
-108601,Ayane (Holiday),MainSkillList,1,108600301,30,30.0
-108601,Ayane (Holiday),MainSkillList,1,108600301,42,41.99999928474426
-108601,Ayane (Holiday),MainSkillList,1,108600301,54,53.999998569488525
-108601,Ayane (Holiday),MainSkillList,1,108600301,66,66.00000143051147
-108601,Ayane (Holiday),MainSkillList,1,108600301,78,77.99999713897705
-108601,Ayane (Holiday),MainSkillList,1,108600302,0,0.0
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601201,60,60.0
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601202,0,0.0
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601301,30,30.0
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601301,42,41.99999928474426
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601301,54,53.999998569488525
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601301,66,66.00000143051147
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601301,78,77.99999713897705
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601302,84,83.99999856948853
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601304,84,83.99999856948853
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601303,0,0.0
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601305,87,87.00000286102295
-108601,Ayane (Holiday),MainSkillEvolutionList,1,108601306,84,83.99999856948853
+108401,Chika (Christmas),Attack,1,0,0,0.0
+108401,Chika (Christmas),MainSkillList,1,108400201,48,48.00000071525574
+108401,Chika (Christmas),MainSkillList,1,108400301,60,60.0
+108401,Chika (Christmas),MainSkillList,1,108400302,60,60.0
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401201,0,0.0
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401202,48,48.00000071525574
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401203,48,48.00000071525574
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401301,54,53.999998569488525
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401303,60,60.0
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401304,60,60.0
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401302,57,56.99999928474426
+108401,Chika (Christmas),MainSkillEvolutionList,1,108401305,66,66.00000143051147
+108501,Kurumi (Christmas),Attack,1,0,24,24.00000035762787
+108501,Kurumi (Christmas),MainSkillList,1,108500201,0,0.0
+108501,Kurumi (Christmas),MainSkillList,1,108500301,84,83.99999856948853
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501201,0,0.0
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501202,0,0.0
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501203,0,0.0
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501301,83,82.7999997138977
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501302,83,82.7999997138977
+108501,Kurumi (Christmas),MainSkillEvolutionList,1,108501303,84,83.99999856948853
+108601,Ayane (Christmas),MainSkillList,1,108600201,60,60.0
+108601,Ayane (Christmas),MainSkillList,1,108600301,30,30.0
+108601,Ayane (Christmas),MainSkillList,1,108600301,42,41.99999928474426
+108601,Ayane (Christmas),MainSkillList,1,108600301,54,53.999998569488525
+108601,Ayane (Christmas),MainSkillList,1,108600301,66,66.00000143051147
+108601,Ayane (Christmas),MainSkillList,1,108600301,78,77.99999713897705
+108601,Ayane (Christmas),MainSkillList,1,108600302,0,0.0
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601201,60,60.0
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601202,0,0.0
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601301,30,30.0
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601301,42,41.99999928474426
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601301,54,53.999998569488525
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601301,66,66.00000143051147
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601301,78,77.99999713897705
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601302,84,83.99999856948853
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601304,84,83.99999856948853
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601303,0,0.0
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601305,87,87.00000286102295
+108601,Ayane (Christmas),MainSkillEvolutionList,1,108601306,84,83.99999856948853
 108701,Hiyori (New Year),Attack,0,0,24,24.00000035762787
 108701,Hiyori (New Year),MainSkillList,0,108700201,60,60.0
 108701,Hiyori (New Year),MainSkillList,0,108700202,60,60.0
@@ -1446,16 +1446,16 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 111001,Yuni,MainSkillEvolutionList,1,111001205,108,107.99999713897705
 111001,Yuni,MainSkillEvolutionList,1,111001206,120,120.0
 111001,Yuni,MainSkillEvolutionList,1,111001204,72,72.00000286102295
-111101,Kyoka (Halloween),Attack,0,0,0,0.0
-111101,Kyoka (Halloween),MainSkillList,0,111100202,69,68.99999856948853
-111101,Kyoka (Halloween),MainSkillList,0,111100201,0,0.0
-111101,Kyoka (Halloween),MainSkillList,0,111100301,108,107.99999713897705
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101201,0,0.0
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101202,69,68.99999856948853
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101301,108,107.99999713897705
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101302,108,107.99999713897705
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101303,108,107.99999713897705
-111101,Kyoka (Halloween),MainSkillEvolutionList,0,111101304,108,107.99999713897705
+111101,Kyouka (Halloween),Attack,0,0,0,0.0
+111101,Kyouka (Halloween),MainSkillList,0,111100202,69,68.99999856948853
+111101,Kyouka (Halloween),MainSkillList,0,111100201,0,0.0
+111101,Kyouka (Halloween),MainSkillList,0,111100301,108,107.99999713897705
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101201,0,0.0
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101202,69,68.99999856948853
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101301,108,107.99999713897705
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101302,108,107.99999713897705
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101303,108,107.99999713897705
+111101,Kyouka (Halloween),MainSkillEvolutionList,0,111101304,108,107.99999713897705
 111201,Misogi (Halloween),Attack,1,0,27,26.999999284744263
 111201,Misogi (Halloween),MainSkillList,1,111200203,78,77.99999713897705
 111201,Misogi (Halloween),MainSkillList,1,111200201,34,33.60000014305115
@@ -1505,87 +1505,87 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 111401,Luna,MainSkillEvolutionList,1,111401205,114,113.99999856948853
 111401,Luna,SpecialSkillList,1,111410101,0,0.0
 111401,Luna,SpecialSkillEvolutionList,1,111411101,0,0.0
-111501,Christina (Holiday),Attack,1,0,30,30.0
-111501,Christina (Holiday),MainSkillList,1,111500202,72,72.00000286102295
-111501,Christina (Holiday),MainSkillList,1,111500203,72,72.00000286102295
-111501,Christina (Holiday),MainSkillList,1,111500205,72,72.00000286102295
-111501,Christina (Holiday),MainSkillList,1,111500201,0,0.0
-111501,Christina (Holiday),MainSkillList,1,111500204,0,0.0
-111501,Christina (Holiday),MainSkillList,1,111500302,66,66.00000143051147
-111501,Christina (Holiday),MainSkillList,1,111500303,66,66.00000143051147
-111501,Christina (Holiday),MainSkillList,1,111500305,102,102.00000286102295
-111501,Christina (Holiday),MainSkillList,1,111500301,0,0.0
-111501,Christina (Holiday),MainSkillList,1,111500304,0,0.0
-111501,Christina (Holiday),MainSkillList,1,111500306,50,50.39999842643738
-111501,Christina (Holiday),MainSkillList,1,111500306,128,128.4000062942505
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501201,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501204,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501206,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501202,72,72.00000286102295
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501203,72,72.00000286102295
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501205,72,72.00000286102295
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501207,72,72.00000286102295
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501302,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501305,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501303,66,66.00000143051147
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501304,66,66.00000143051147
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501306,102,102.00000286102295
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501307,50,50.39999842643738
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501307,128,128.4000062942505
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501308,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501309,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501301,0,0.0
-111501,Christina (Holiday),MainSkillEvolutionList,1,111501310,0,0.0
-111501,Christina (Holiday),SpecialSkillList,1,111510101,72,72.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510102,72,72.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510103,72,72.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510104,72,72.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510202,66,66.00000143051147
-111501,Christina (Holiday),SpecialSkillList,1,111510203,72,72.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510204,102,102.00000286102295
-111501,Christina (Holiday),SpecialSkillList,1,111510205,50,50.39999842643738
-111501,Christina (Holiday),SpecialSkillList,1,111510205,128,128.4000062942505
-111501,Christina (Holiday),SpecialSkillList,1,111510206,130,129.6000051498413
-111501,Christina (Holiday),SpecialSkillList,1,111510201,0,0.0
-111601,Nozomi (Holiday),Attack,1,0,27,26.999999284744263
-111601,Nozomi (Holiday),MainSkillList,1,111600201,90,90.0
-111601,Nozomi (Holiday),MainSkillList,1,111600301,90,90.0
-111601,Nozomi (Holiday),MainSkillList,1,111600302,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601205,96,96.00000143051147
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601201,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601204,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601206,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601203,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601207,96,96.00000143051147
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601202,96,96.00000143051147
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601301,30,30.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601302,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601303,90,90.0
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601304,91,91.19999885559082
-111601,Nozomi (Holiday),MainSkillEvolutionList,1,111601305,91,91.19999885559082
-111701,Illya (Holiday),Attack,0,0,24,24.00000035762787
-111701,Illya (Holiday),MainSkillList,0,111700202,78,77.99999713897705
-111701,Illya (Holiday),MainSkillList,0,111700202,93,92.99999713897705
-111701,Illya (Holiday),MainSkillList,0,111700202,105,105.0
-111701,Illya (Holiday),MainSkillList,0,111700202,117,117.00000286102295
-111701,Illya (Holiday),MainSkillList,0,111700201,0,0.0
-111701,Illya (Holiday),MainSkillList,0,111700302,120,120.0
-111701,Illya (Holiday),MainSkillList,0,111700303,90,90.0
-111701,Illya (Holiday),MainSkillList,0,111700301,0,0.0
-111701,Illya (Holiday),MainSkillList,0,111700304,120,120.0
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701204,84,83.99999856948853
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701204,99,98.99999856948853
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701204,111,111.00000143051147
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701204,123,122.99999713897705
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701202,6,6.000000089406967
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701201,0,0.0
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701203,0,0.0
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701301,26,26.399999856948853
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701302,28,27.600000500679016
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701303,90,90.0
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701304,119,118.80000114440918
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701305,120,120.0
-111701,Illya (Holiday),MainSkillEvolutionList,0,111701306,132,132.00000286102295
+111501,Christina (Christmas),Attack,1,0,30,30.0
+111501,Christina (Christmas),MainSkillList,1,111500202,72,72.00000286102295
+111501,Christina (Christmas),MainSkillList,1,111500203,72,72.00000286102295
+111501,Christina (Christmas),MainSkillList,1,111500205,72,72.00000286102295
+111501,Christina (Christmas),MainSkillList,1,111500201,0,0.0
+111501,Christina (Christmas),MainSkillList,1,111500204,0,0.0
+111501,Christina (Christmas),MainSkillList,1,111500302,66,66.00000143051147
+111501,Christina (Christmas),MainSkillList,1,111500303,66,66.00000143051147
+111501,Christina (Christmas),MainSkillList,1,111500305,102,102.00000286102295
+111501,Christina (Christmas),MainSkillList,1,111500301,0,0.0
+111501,Christina (Christmas),MainSkillList,1,111500304,0,0.0
+111501,Christina (Christmas),MainSkillList,1,111500306,50,50.39999842643738
+111501,Christina (Christmas),MainSkillList,1,111500306,128,128.4000062942505
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501201,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501204,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501206,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501202,72,72.00000286102295
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501203,72,72.00000286102295
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501205,72,72.00000286102295
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501207,72,72.00000286102295
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501302,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501305,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501303,66,66.00000143051147
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501304,66,66.00000143051147
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501306,102,102.00000286102295
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501307,50,50.39999842643738
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501307,128,128.4000062942505
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501308,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501309,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501301,0,0.0
+111501,Christina (Christmas),MainSkillEvolutionList,1,111501310,0,0.0
+111501,Christina (Christmas),SpecialSkillList,1,111510101,72,72.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510102,72,72.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510103,72,72.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510104,72,72.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510202,66,66.00000143051147
+111501,Christina (Christmas),SpecialSkillList,1,111510203,72,72.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510204,102,102.00000286102295
+111501,Christina (Christmas),SpecialSkillList,1,111510205,50,50.39999842643738
+111501,Christina (Christmas),SpecialSkillList,1,111510205,128,128.4000062942505
+111501,Christina (Christmas),SpecialSkillList,1,111510206,130,129.6000051498413
+111501,Christina (Christmas),SpecialSkillList,1,111510201,0,0.0
+111601,Nozomi (Christmas),Attack,1,0,27,26.999999284744263
+111601,Nozomi (Christmas),MainSkillList,1,111600201,90,90.0
+111601,Nozomi (Christmas),MainSkillList,1,111600301,90,90.0
+111601,Nozomi (Christmas),MainSkillList,1,111600302,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601205,96,96.00000143051147
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601201,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601204,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601206,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601203,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601207,96,96.00000143051147
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601202,96,96.00000143051147
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601301,30,30.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601302,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601303,90,90.0
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601304,91,91.19999885559082
+111601,Nozomi (Christmas),MainSkillEvolutionList,1,111601305,91,91.19999885559082
+111701,Illya (Christmas),Attack,0,0,24,24.00000035762787
+111701,Illya (Christmas),MainSkillList,0,111700202,78,77.99999713897705
+111701,Illya (Christmas),MainSkillList,0,111700202,93,92.99999713897705
+111701,Illya (Christmas),MainSkillList,0,111700202,105,105.0
+111701,Illya (Christmas),MainSkillList,0,111700202,117,117.00000286102295
+111701,Illya (Christmas),MainSkillList,0,111700201,0,0.0
+111701,Illya (Christmas),MainSkillList,0,111700302,120,120.0
+111701,Illya (Christmas),MainSkillList,0,111700303,90,90.0
+111701,Illya (Christmas),MainSkillList,0,111700301,0,0.0
+111701,Illya (Christmas),MainSkillList,0,111700304,120,120.0
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701204,84,83.99999856948853
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701204,99,98.99999856948853
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701204,111,111.00000143051147
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701204,123,122.99999713897705
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701202,6,6.000000089406967
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701201,0,0.0
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701203,0,0.0
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701301,26,26.399999856948853
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701302,28,27.600000500679016
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701303,90,90.0
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701304,119,118.80000114440918
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701305,120,120.0
+111701,Illya (Christmas),MainSkillEvolutionList,0,111701306,132,132.00000286102295
 111801,Pecorine (New Year),Attack,1,0,12,12.000000178813934
 111801,Pecorine (New Year),MainSkillList,1,111800203,96,96.00000143051147
 111801,Pecorine (New Year),MainSkillList,1,111800205,96,96.00000143051147
@@ -1663,40 +1663,40 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 112101,Suzume (New Year),MainSkillEvolutionList,1,112101302,60,60.0
 112101,Suzume (New Year),MainSkillEvolutionList,1,112101303,60,60.0
 112101,Suzume (New Year),MainSkillEvolutionList,1,112101304,60,60.0
-112201,Kasumi (Magical),Attack,1,0,0,0.0
-112201,Kasumi (Magical),MainSkillList,1,112200201,120,120.0
-112201,Kasumi (Magical),MainSkillList,1,112200302,108,107.99999713897705
-112201,Kasumi (Magical),MainSkillList,1,112200303,108,107.99999713897705
-112201,Kasumi (Magical),MainSkillList,1,112200301,0,0.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201201,120,120.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201202,120,120.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201203,120,120.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201204,120,120.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201205,120,120.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201301,0,0.0
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201302,107,106.79999828338623
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201303,108,107.99999713897705
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201304,108,107.99999713897705
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201305,112,111.60000085830688
-112201,Kasumi (Magical),MainSkillEvolutionList,1,112201306,110,110.40000200271606
-112301,Shiori (Magical),Attack,1,0,0,0.0
-112301,Shiori (Magical),MainSkillList,1,112300201,90,90.0
-112301,Shiori (Magical),MainSkillList,1,112300202,90,90.0
-112301,Shiori (Magical),MainSkillList,1,112300301,90,90.0
-112301,Shiori (Magical),MainSkillList,1,112300302,0,0.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301201,90,90.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301202,90,90.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301203,90,90.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301301,90,90.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301305,1,1.1999999731779099
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301306,254,254.39998626708984
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301309,1,1.1999999731779099
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301302,90,90.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301303,252,251.9999885559082
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301307,253,253.19998741149902
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301304,0,0.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301308,0,0.0
-112301,Shiori (Magical),MainSkillEvolutionList,1,112301310,1,1.1999999731779099
+112201,Kasumi (Magical Girl),Attack,1,0,0,0.0
+112201,Kasumi (Magical Girl),MainSkillList,1,112200201,120,120.0
+112201,Kasumi (Magical Girl),MainSkillList,1,112200302,108,107.99999713897705
+112201,Kasumi (Magical Girl),MainSkillList,1,112200303,108,107.99999713897705
+112201,Kasumi (Magical Girl),MainSkillList,1,112200301,0,0.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201201,120,120.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201202,120,120.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201203,120,120.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201204,120,120.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201205,120,120.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201301,0,0.0
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201302,107,106.79999828338623
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201303,108,107.99999713897705
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201304,108,107.99999713897705
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201305,112,111.60000085830688
+112201,Kasumi (Magical Girl),MainSkillEvolutionList,1,112201306,110,110.40000200271606
+112301,Shiori (Magical Girl),Attack,1,0,0,0.0
+112301,Shiori (Magical Girl),MainSkillList,1,112300201,90,90.0
+112301,Shiori (Magical Girl),MainSkillList,1,112300202,90,90.0
+112301,Shiori (Magical Girl),MainSkillList,1,112300301,90,90.0
+112301,Shiori (Magical Girl),MainSkillList,1,112300302,0,0.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301201,90,90.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301202,90,90.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301203,90,90.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301301,90,90.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301305,1,1.1999999731779099
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301306,254,254.39998626708984
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301309,1,1.1999999731779099
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301302,90,90.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301303,252,251.9999885559082
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301307,253,253.19998741149902
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301304,0,0.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301308,0,0.0
+112301,Shiori (Magical Girl),MainSkillEvolutionList,1,112301310,1,1.1999999731779099
 112401,Uzuki (IM@S CG),Attack,1,0,18,18.000000715255737
 112401,Uzuki (IM@S CG),MainSkillList,1,112400201,78,77.99999713897705
 112401,Uzuki (IM@S CG),MainSkillList,1,112400202,78,77.99999713897705
@@ -2007,95 +2007,95 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 114101,Matsuri (Halloween),MainSkillEvolutionList,1,114101202,39,38.999998569488525
 114101,Matsuri (Halloween),MainSkillEvolutionList,1,114101205,39,38.999998569488525
 114101,Matsuri (Halloween),MainSkillEvolutionList,1,114101204,39,38.999998569488525
-114201,Monika (Magical),Attack,1,0,0,0.0
-114201,Monika (Magical),MainSkillList,1,114200202,144,144.0000057220459
-114201,Monika (Magical),MainSkillList,1,114200201,0,0.0
-114201,Monika (Magical),MainSkillList,1,114200303,126,125.9999942779541
-114201,Monika (Magical),MainSkillList,1,114200301,60,60.0
-114201,Monika (Magical),MainSkillList,1,114200302,72,72.00000286102295
-114201,Monika (Magical),MainSkillEvolutionList,1,114201203,144,144.0000057220459
-114201,Monika (Magical),MainSkillEvolutionList,1,114201204,144,144.0000057220459
-114201,Monika (Magical),MainSkillEvolutionList,1,114201201,6,6.000000089406967
-114201,Monika (Magical),MainSkillEvolutionList,1,114201202,12,12.000000178813934
-114301,Tomo (Magical),Attack,1,0,0,0.0
-114301,Tomo (Magical),MainSkillList,1,114300202,0,0.0
-114301,Tomo (Magical),MainSkillList,1,114300203,0,0.0
-114301,Tomo (Magical),MainSkillList,1,114300204,0,0.0
-114301,Tomo (Magical),MainSkillList,1,114300201,0,0.0
-114301,Tomo (Magical),MainSkillList,1,114300301,102,102.00000286102295
-114301,Tomo (Magical),MainSkillList,1,114300303,102,102.00000286102295
-114301,Tomo (Magical),MainSkillList,1,114300302,102,102.00000286102295
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301201,0,0.06000000284984708
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301202,0,0.06000000284984708
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301203,60,60.0
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301204,0,0.06000000284984708
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301205,0,0.06000000284984708
-114301,Tomo (Magical),MainSkillEvolutionList,1,114301206,0,0.06000000284984708
-114401,Akino (Holiday),Attack,1,0,0,0.0
-114401,Akino (Holiday),MainSkillList,1,114400202,72,72.00000286102295
-114401,Akino (Holiday),MainSkillList,1,114400203,72,72.00000286102295
-114401,Akino (Holiday),MainSkillList,1,114400204,72,72.00000286102295
-114401,Akino (Holiday),MainSkillList,1,114400201,0,0.0
-114401,Akino (Holiday),MainSkillList,1,114400302,60,60.0
-114401,Akino (Holiday),MainSkillList,1,114400301,0,0.0
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401201,0,0.0
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401202,72,72.05999851226807
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401203,72,72.12000131607056
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401204,72,72.17999696731567
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401205,72,72.23999977111816
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401206,72,72.30000257492065
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401301,0,0.0
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401302,60,60.0
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401303,0,0.0
-114401,Akino (Holiday),MainSkillEvolutionList,1,114401304,1,1.1999999731779099
-114401,Akino (Holiday),SpecialSkillList,1,114410102,60,60.0
-114401,Akino (Holiday),SpecialSkillList,1,114410103,66,66.00000143051147
-114401,Akino (Holiday),SpecialSkillList,1,114410101,0,0.0
-114401,Akino (Holiday),SpecialSkillList,1,114410104,117,117.00000286102295
-114401,Akino (Holiday),SpecialSkillList,1,114410105,118,118.20000171661377
-114401,Akino (Holiday),SpecialSkillList,1,114410106,1,1.1999999731779099
-114401,Akino (Holiday),SpecialSkillList,1,114410107,2,2.3999999463558197
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411101,0,0.0
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411102,60,60.0
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411103,66,66.00000143051147
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411104,117,117.00000286102295
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411105,118,118.20000171661377
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411106,1,1.1999999731779099
-114401,Akino (Holiday),SpecialSkillEvolutionList,1,114411107,2,2.3999999463558197
-114501,Saren (Holiday),Attack,0,0,0,0.0
-114501,Saren (Holiday),MainSkillList,0,114500201,90,90.0
-114501,Saren (Holiday),MainSkillList,0,114500202,90,90.0
-114501,Saren (Holiday),MainSkillList,0,114500203,90,90.0
-114501,Saren (Holiday),MainSkillList,0,114500204,90,90.0
-114501,Saren (Holiday),MainSkillList,0,114500304,120,120.0
-114501,Saren (Holiday),MainSkillList,0,114500301,84,83.99999856948853
-114501,Saren (Holiday),MainSkillList,0,114500302,90,90.0
-114501,Saren (Holiday),MainSkillList,0,114500303,96,96.00000143051147
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501201,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501202,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501203,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501204,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501205,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501206,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501301,84,83.99999856948853
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501303,90,90.0
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501305,96,96.00000143051147
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501302,85,85.19999742507935
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501304,91,91.19999885559082
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501306,97,97.2000002861023
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501308,121,121.19999885559082
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501309,121,121.19999885559082
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501310,121,121.19999885559082
-114501,Saren (Holiday),MainSkillEvolutionList,0,114501307,120,120.0
-114601,Yukari (Holiday),Attack,1,0,0,0.0
-114601,Yukari (Holiday),MainSkillList,1,114600201,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillList,1,114600202,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillList,1,114600301,72,72.00000286102295
-114601,Yukari (Holiday),MainSkillEvolutionList,1,114601201,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillEvolutionList,1,114601204,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillEvolutionList,1,114601205,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillEvolutionList,1,114601202,102,102.00000286102295
-114601,Yukari (Holiday),MainSkillEvolutionList,1,114601203,102,102.00000286102295
+114201,Monika (Magical Girl),Attack,1,0,0,0.0
+114201,Monika (Magical Girl),MainSkillList,1,114200202,144,144.0000057220459
+114201,Monika (Magical Girl),MainSkillList,1,114200201,0,0.0
+114201,Monika (Magical Girl),MainSkillList,1,114200303,126,125.9999942779541
+114201,Monika (Magical Girl),MainSkillList,1,114200301,60,60.0
+114201,Monika (Magical Girl),MainSkillList,1,114200302,72,72.00000286102295
+114201,Monika (Magical Girl),MainSkillEvolutionList,1,114201203,144,144.0000057220459
+114201,Monika (Magical Girl),MainSkillEvolutionList,1,114201204,144,144.0000057220459
+114201,Monika (Magical Girl),MainSkillEvolutionList,1,114201201,6,6.000000089406967
+114201,Monika (Magical Girl),MainSkillEvolutionList,1,114201202,12,12.000000178813934
+114301,Tomo (Magical Girl),Attack,1,0,0,0.0
+114301,Tomo (Magical Girl),MainSkillList,1,114300202,0,0.0
+114301,Tomo (Magical Girl),MainSkillList,1,114300203,0,0.0
+114301,Tomo (Magical Girl),MainSkillList,1,114300204,0,0.0
+114301,Tomo (Magical Girl),MainSkillList,1,114300201,0,0.0
+114301,Tomo (Magical Girl),MainSkillList,1,114300301,102,102.00000286102295
+114301,Tomo (Magical Girl),MainSkillList,1,114300303,102,102.00000286102295
+114301,Tomo (Magical Girl),MainSkillList,1,114300302,102,102.00000286102295
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301201,0,0.06000000284984708
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301202,0,0.06000000284984708
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301203,60,60.0
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301204,0,0.06000000284984708
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301205,0,0.06000000284984708
+114301,Tomo (Magical Girl),MainSkillEvolutionList,1,114301206,0,0.06000000284984708
+114401,Akino (Christmas),Attack,1,0,0,0.0
+114401,Akino (Christmas),MainSkillList,1,114400202,72,72.00000286102295
+114401,Akino (Christmas),MainSkillList,1,114400203,72,72.00000286102295
+114401,Akino (Christmas),MainSkillList,1,114400204,72,72.00000286102295
+114401,Akino (Christmas),MainSkillList,1,114400201,0,0.0
+114401,Akino (Christmas),MainSkillList,1,114400302,60,60.0
+114401,Akino (Christmas),MainSkillList,1,114400301,0,0.0
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401201,0,0.0
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401202,72,72.05999851226807
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401203,72,72.12000131607056
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401204,72,72.17999696731567
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401205,72,72.23999977111816
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401206,72,72.30000257492065
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401301,0,0.0
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401302,60,60.0
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401303,0,0.0
+114401,Akino (Christmas),MainSkillEvolutionList,1,114401304,1,1.1999999731779099
+114401,Akino (Christmas),SpecialSkillList,1,114410102,60,60.0
+114401,Akino (Christmas),SpecialSkillList,1,114410103,66,66.00000143051147
+114401,Akino (Christmas),SpecialSkillList,1,114410101,0,0.0
+114401,Akino (Christmas),SpecialSkillList,1,114410104,117,117.00000286102295
+114401,Akino (Christmas),SpecialSkillList,1,114410105,118,118.20000171661377
+114401,Akino (Christmas),SpecialSkillList,1,114410106,1,1.1999999731779099
+114401,Akino (Christmas),SpecialSkillList,1,114410107,2,2.3999999463558197
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411101,0,0.0
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411102,60,60.0
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411103,66,66.00000143051147
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411104,117,117.00000286102295
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411105,118,118.20000171661377
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411106,1,1.1999999731779099
+114401,Akino (Christmas),SpecialSkillEvolutionList,1,114411107,2,2.3999999463558197
+114501,Saren (Christmas),Attack,0,0,0,0.0
+114501,Saren (Christmas),MainSkillList,0,114500201,90,90.0
+114501,Saren (Christmas),MainSkillList,0,114500202,90,90.0
+114501,Saren (Christmas),MainSkillList,0,114500203,90,90.0
+114501,Saren (Christmas),MainSkillList,0,114500204,90,90.0
+114501,Saren (Christmas),MainSkillList,0,114500304,120,120.0
+114501,Saren (Christmas),MainSkillList,0,114500301,84,83.99999856948853
+114501,Saren (Christmas),MainSkillList,0,114500302,90,90.0
+114501,Saren (Christmas),MainSkillList,0,114500303,96,96.00000143051147
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501201,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501202,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501203,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501204,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501205,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501206,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501301,84,83.99999856948853
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501303,90,90.0
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501305,96,96.00000143051147
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501302,85,85.19999742507935
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501304,91,91.19999885559082
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501306,97,97.2000002861023
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501308,121,121.19999885559082
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501309,121,121.19999885559082
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501310,121,121.19999885559082
+114501,Saren (Christmas),MainSkillEvolutionList,0,114501307,120,120.0
+114601,Yukari (Christmas),Attack,1,0,0,0.0
+114601,Yukari (Christmas),MainSkillList,1,114600201,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillList,1,114600202,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillList,1,114600301,72,72.00000286102295
+114601,Yukari (Christmas),MainSkillEvolutionList,1,114601201,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillEvolutionList,1,114601204,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillEvolutionList,1,114601205,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillEvolutionList,1,114601202,102,102.00000286102295
+114601,Yukari (Christmas),MainSkillEvolutionList,1,114601203,102,102.00000286102295
 114701,Muimi (New Year),Attack,0,0,0,0.0
 114701,Muimi (New Year),MainSkillList,0,114700203,18,18.000000715255737
 114701,Muimi (New Year),MainSkillList,0,114700204,0,0.0
@@ -2537,64 +2537,64 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 119101,Kuuka (Noir),MainSkillEvolutionList,1,119101203,150,150.0
 119101,Kuuka (Noir),MainSkillEvolutionList,1,119101204,90,90.0
 119101,Kuuka (Noir),MainSkillEvolutionList,1,119101205,91,91.19999885559082
-119201,Mahiru (Holiday),Attack,1,0,30,30.0
-119201,Mahiru (Holiday),MainSkillList,1,119200202,90,90.0
-119201,Mahiru (Holiday),MainSkillList,1,119200201,90,90.0
-119201,Mahiru (Holiday),MainSkillList,1,119200302,0,0.0
-119201,Mahiru (Holiday),MainSkillList,1,119200304,1,1.1999999731779099
-119201,Mahiru (Holiday),MainSkillList,1,119200305,2,1.7999999597668648
-119201,Mahiru (Holiday),MainSkillList,1,119200301,0,0.0
-119201,Mahiru (Holiday),MainSkillList,1,119200303,1,0.5999999865889549
-119201,Mahiru (Holiday),MainSkillEvolutionList,1,119201201,90,90.0
-119201,Mahiru (Holiday),MainSkillEvolutionList,1,119201205,90,90.0
-119201,Mahiru (Holiday),MainSkillEvolutionList,1,119201202,90,90.0
-119201,Mahiru (Holiday),MainSkillEvolutionList,1,119201203,90,90.0
-119201,Mahiru (Holiday),MainSkillEvolutionList,1,119201204,96,96.00000143051147
-119301,Rino (Holiday),Attack,0,0,0,0.0
-119301,Rino (Holiday),MainSkillList,0,119300201,102,102.00000286102295
-119301,Rino (Holiday),MainSkillList,0,119300202,102,102.00000286102295
-119301,Rino (Holiday),MainSkillList,0,119300303,6,6.000000089406967
-119301,Rino (Holiday),MainSkillList,0,119300301,0,0.0
-119301,Rino (Holiday),MainSkillList,0,119300301,12,12.000000178813934
-119301,Rino (Holiday),MainSkillList,0,119300301,24,24.00000035762787
-119301,Rino (Holiday),MainSkillList,0,119300302,0,0.0
-119301,Rino (Holiday),MainSkillEvolutionList,0,119301201,102,102.00000286102295
-119301,Rino (Holiday),MainSkillEvolutionList,0,119301202,102,102.00000286102295
-119301,Rino (Holiday),MainSkillEvolutionList,0,119301203,0,0.0
-119901,Miyako (Holiday),Attack,1,0,0,0.0
-119901,Miyako (Holiday),MainSkillList,1,119900202,90,90.0
-119901,Miyako (Holiday),MainSkillList,1,119900202,99,98.99999856948853
-119901,Miyako (Holiday),MainSkillList,1,119900202,108,107.99999713897705
-119901,Miyako (Holiday),MainSkillList,1,119900202,117,117.00000286102295
-119901,Miyako (Holiday),MainSkillList,1,119900202,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillList,1,119900203,90,90.0
-119901,Miyako (Holiday),MainSkillList,1,119900203,99,98.99999856948853
-119901,Miyako (Holiday),MainSkillList,1,119900203,108,107.99999713897705
-119901,Miyako (Holiday),MainSkillList,1,119900203,117,117.00000286102295
-119901,Miyako (Holiday),MainSkillList,1,119900203,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillList,1,119900205,132,132.00000286102295
-119901,Miyako (Holiday),MainSkillList,1,119900206,132,132.00000286102295
-119901,Miyako (Holiday),MainSkillList,1,119900201,0,0.0
-119901,Miyako (Holiday),MainSkillList,1,119900204,0,0.0
-119901,Miyako (Holiday),MainSkillList,1,119900303,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillList,1,119900304,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillList,1,119900301,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillList,1,119900302,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901201,0,0.0
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901204,0,0.0
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901202,90,90.0
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901202,99,98.99999856948853
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901202,108,107.99999713897705
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901202,117,117.00000286102295
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901202,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901203,90,90.0
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901203,99,98.99999856948853
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901203,108,107.99999713897705
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901203,117,117.00000286102295
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901203,126,125.9999942779541
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901205,132,132.00000286102295
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901206,132,132.00000286102295
-119901,Miyako (Holiday),MainSkillEvolutionList,1,119901207,138,137.99999713897705
+119201,Mahiru (Christmas),Attack,1,0,30,30.0
+119201,Mahiru (Christmas),MainSkillList,1,119200202,90,90.0
+119201,Mahiru (Christmas),MainSkillList,1,119200201,90,90.0
+119201,Mahiru (Christmas),MainSkillList,1,119200302,0,0.0
+119201,Mahiru (Christmas),MainSkillList,1,119200304,1,1.1999999731779099
+119201,Mahiru (Christmas),MainSkillList,1,119200305,2,1.7999999597668648
+119201,Mahiru (Christmas),MainSkillList,1,119200301,0,0.0
+119201,Mahiru (Christmas),MainSkillList,1,119200303,1,0.5999999865889549
+119201,Mahiru (Christmas),MainSkillEvolutionList,1,119201201,90,90.0
+119201,Mahiru (Christmas),MainSkillEvolutionList,1,119201205,90,90.0
+119201,Mahiru (Christmas),MainSkillEvolutionList,1,119201202,90,90.0
+119201,Mahiru (Christmas),MainSkillEvolutionList,1,119201203,90,90.0
+119201,Mahiru (Christmas),MainSkillEvolutionList,1,119201204,96,96.00000143051147
+119301,Rino (Christmas),Attack,0,0,0,0.0
+119301,Rino (Christmas),MainSkillList,0,119300201,102,102.00000286102295
+119301,Rino (Christmas),MainSkillList,0,119300202,102,102.00000286102295
+119301,Rino (Christmas),MainSkillList,0,119300303,6,6.000000089406967
+119301,Rino (Christmas),MainSkillList,0,119300301,0,0.0
+119301,Rino (Christmas),MainSkillList,0,119300301,12,12.000000178813934
+119301,Rino (Christmas),MainSkillList,0,119300301,24,24.00000035762787
+119301,Rino (Christmas),MainSkillList,0,119300302,0,0.0
+119301,Rino (Christmas),MainSkillEvolutionList,0,119301201,102,102.00000286102295
+119301,Rino (Christmas),MainSkillEvolutionList,0,119301202,102,102.00000286102295
+119301,Rino (Christmas),MainSkillEvolutionList,0,119301203,0,0.0
+119901,Miyako (Christmas),Attack,1,0,0,0.0
+119901,Miyako (Christmas),MainSkillList,1,119900202,90,90.0
+119901,Miyako (Christmas),MainSkillList,1,119900202,99,98.99999856948853
+119901,Miyako (Christmas),MainSkillList,1,119900202,108,107.99999713897705
+119901,Miyako (Christmas),MainSkillList,1,119900202,117,117.00000286102295
+119901,Miyako (Christmas),MainSkillList,1,119900202,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillList,1,119900203,90,90.0
+119901,Miyako (Christmas),MainSkillList,1,119900203,99,98.99999856948853
+119901,Miyako (Christmas),MainSkillList,1,119900203,108,107.99999713897705
+119901,Miyako (Christmas),MainSkillList,1,119900203,117,117.00000286102295
+119901,Miyako (Christmas),MainSkillList,1,119900203,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillList,1,119900205,132,132.00000286102295
+119901,Miyako (Christmas),MainSkillList,1,119900206,132,132.00000286102295
+119901,Miyako (Christmas),MainSkillList,1,119900201,0,0.0
+119901,Miyako (Christmas),MainSkillList,1,119900204,0,0.0
+119901,Miyako (Christmas),MainSkillList,1,119900303,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillList,1,119900304,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillList,1,119900301,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillList,1,119900302,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901201,0,0.0
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901204,0,0.0
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901202,90,90.0
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901202,99,98.99999856948853
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901202,108,107.99999713897705
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901202,117,117.00000286102295
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901202,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901203,90,90.0
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901203,99,98.99999856948853
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901203,108,107.99999713897705
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901203,117,117.00000286102295
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901203,126,125.9999942779541
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901205,132,132.00000286102295
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901206,132,132.00000286102295
+119901,Miyako (Christmas),MainSkillEvolutionList,1,119901207,138,137.99999713897705
 120001,Shizuru (Noir),Attack,1,0,0,0.0
 120001,Shizuru (Noir),MainSkillList,1,120000201,90,90.0
 120001,Shizuru (Noir),MainSkillList,1,120000202,90,90.0
@@ -2938,28 +2938,28 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 122601,Yui (Summer),MainSkillEvolutionList,1,122601202,132,132.00000286102295
 122601,Yui (Summer),MainSkillEvolutionList,1,122601203,132,132.00000286102295
 122601,Yui (Summer),MainSkillEvolutionList,1,122601204,132,132.00000286102295
-122701,Kyoka (Summer),Attack,0,0,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700203,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillList,0,122700204,108,107.99999713897705
-122701,Kyoka (Summer),MainSkillList,0,122700205,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillList,0,122700206,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillList,0,122700201,83,82.7999997138977
-122701,Kyoka (Summer),MainSkillList,0,122700202,107,106.79999828338623
-122701,Kyoka (Summer),MainSkillList,0,122700304,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700305,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700306,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700301,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700302,0,0.0
-122701,Kyoka (Summer),MainSkillList,0,122700303,0,0.0
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701205,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701206,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701207,24,24.00000035762787
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701201,83,82.7999997138977
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701202,107,106.79999828338623
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701203,84,83.99999856948853
-122701,Kyoka (Summer),MainSkillEvolutionList,0,122701204,108,107.99999713897705
-122701,Kyoka (Summer),SpecialSkillList,0,122710102,30,30.0
-122701,Kyoka (Summer),SpecialSkillList,0,122710101,30,30.0
+122701,Kyouka (Summer),Attack,0,0,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700203,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillList,0,122700204,108,107.99999713897705
+122701,Kyouka (Summer),MainSkillList,0,122700205,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillList,0,122700206,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillList,0,122700201,83,82.7999997138977
+122701,Kyouka (Summer),MainSkillList,0,122700202,107,106.79999828338623
+122701,Kyouka (Summer),MainSkillList,0,122700304,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700305,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700306,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700301,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700302,0,0.0
+122701,Kyouka (Summer),MainSkillList,0,122700303,0,0.0
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701205,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701206,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701207,24,24.00000035762787
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701201,83,82.7999997138977
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701202,107,106.79999828338623
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701203,84,83.99999856948853
+122701,Kyouka (Summer),MainSkillEvolutionList,0,122701204,108,107.99999713897705
+122701,Kyouka (Summer),SpecialSkillList,0,122710102,30,30.0
+122701,Kyouka (Summer),SpecialSkillList,0,122710101,30,30.0
 122801,Misogi (Summer),Attack,1,0,0,0.0
 122801,Misogi (Summer),MainSkillList,1,122800201,90,90.0
 122801,Misogi (Summer),MainSkillList,1,122800202,0,0.0
@@ -3101,41 +3101,41 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 123901,Matsuri (Wild),MainSkillEvolutionList,0,123901204,99,98.99999856948853
 123901,Matsuri (Wild),MainSkillEvolutionList,0,123901204,101,101.40000343322754
 123901,Matsuri (Wild),MainSkillEvolutionList,0,123901204,104,103.80000114440918
-124001,Akari (Holiday),Attack,0,0,0,0.0
-124001,Akari (Holiday),MainSkillList,0,124000201,0,0.0
-124001,Akari (Holiday),MainSkillList,0,124000203,108,107.99999713897705
-124001,Akari (Holiday),MainSkillList,0,124000202,12,12.000000178813934
-124001,Akari (Holiday),MainSkillList,0,124000301,96,96.00000143051147
-124001,Akari (Holiday),MainSkillList,0,124000302,96,96.00000143051147
-124001,Akari (Holiday),MainSkillList,0,124000303,96,96.00000143051147
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001203,108,107.99999713897705
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001205,108,107.99999713897705
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001202,12,12.000000178813934
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001204,12,12.000000178813934
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001201,0,0.0
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001201,3,3.0000000447034836
-124001,Akari (Holiday),MainSkillEvolutionList,0,124001201,6,6.000000089406967
-124101,Yori (Holiday),Attack,0,0,18,18.000000715255737
-124101,Yori (Holiday),MainSkillList,0,124100201,120,120.0
-124101,Yori (Holiday),MainSkillList,0,124100202,120,120.0
-124101,Yori (Holiday),MainSkillList,0,124100301,126,125.9999942779541
-124101,Yori (Holiday),MainSkillList,0,124100302,126,125.9999942779541
-124101,Yori (Holiday),MainSkillList,0,124100303,127,127.19999313354492
-124101,Yori (Holiday),MainSkillEvolutionList,0,124101201,120,120.0
-124101,Yori (Holiday),MainSkillEvolutionList,0,124101203,120,120.0
-124101,Yori (Holiday),MainSkillEvolutionList,0,124101202,120,120.0
-124201,Jun (Holiday),MainSkillList,1,124200204,174,174.0000057220459
-124201,Jun (Holiday),MainSkillList,1,124200201,132,132.00000286102295
-124201,Jun (Holiday),MainSkillList,1,124200202,120,120.0
-124201,Jun (Holiday),MainSkillList,1,124200203,120,120.0
-124201,Jun (Holiday),MainSkillList,1,124200304,150,150.0
-124201,Jun (Holiday),MainSkillList,1,124200301,102,102.00000286102295
-124201,Jun (Holiday),MainSkillList,1,124200302,6,6.000000089406967
-124201,Jun (Holiday),MainSkillList,1,124200303,0,0.0
-124201,Jun (Holiday),MainSkillEvolutionList,1,124201202,120,120.0
-124201,Jun (Holiday),MainSkillEvolutionList,1,124201203,120,120.0
-124201,Jun (Holiday),MainSkillEvolutionList,1,124201201,132,132.00000286102295
-124201,Jun (Holiday),MainSkillEvolutionList,1,124201204,174,174.0000057220459
+124001,Akari (Christmas),Attack,0,0,0,0.0
+124001,Akari (Christmas),MainSkillList,0,124000201,0,0.0
+124001,Akari (Christmas),MainSkillList,0,124000203,108,107.99999713897705
+124001,Akari (Christmas),MainSkillList,0,124000202,12,12.000000178813934
+124001,Akari (Christmas),MainSkillList,0,124000301,96,96.00000143051147
+124001,Akari (Christmas),MainSkillList,0,124000302,96,96.00000143051147
+124001,Akari (Christmas),MainSkillList,0,124000303,96,96.00000143051147
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001203,108,107.99999713897705
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001205,108,107.99999713897705
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001202,12,12.000000178813934
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001204,12,12.000000178813934
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001201,0,0.0
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001201,3,3.0000000447034836
+124001,Akari (Christmas),MainSkillEvolutionList,0,124001201,6,6.000000089406967
+124101,Yori (Christmas),Attack,0,0,18,18.000000715255737
+124101,Yori (Christmas),MainSkillList,0,124100201,120,120.0
+124101,Yori (Christmas),MainSkillList,0,124100202,120,120.0
+124101,Yori (Christmas),MainSkillList,0,124100301,126,125.9999942779541
+124101,Yori (Christmas),MainSkillList,0,124100302,126,125.9999942779541
+124101,Yori (Christmas),MainSkillList,0,124100303,127,127.19999313354492
+124101,Yori (Christmas),MainSkillEvolutionList,0,124101201,120,120.0
+124101,Yori (Christmas),MainSkillEvolutionList,0,124101203,120,120.0
+124101,Yori (Christmas),MainSkillEvolutionList,0,124101202,120,120.0
+124201,Jun (Christmas),MainSkillList,1,124200204,174,174.0000057220459
+124201,Jun (Christmas),MainSkillList,1,124200201,132,132.00000286102295
+124201,Jun (Christmas),MainSkillList,1,124200202,120,120.0
+124201,Jun (Christmas),MainSkillList,1,124200203,120,120.0
+124201,Jun (Christmas),MainSkillList,1,124200304,150,150.0
+124201,Jun (Christmas),MainSkillList,1,124200301,102,102.00000286102295
+124201,Jun (Christmas),MainSkillList,1,124200302,6,6.000000089406967
+124201,Jun (Christmas),MainSkillList,1,124200303,0,0.0
+124201,Jun (Christmas),MainSkillEvolutionList,1,124201202,120,120.0
+124201,Jun (Christmas),MainSkillEvolutionList,1,124201203,120,120.0
+124201,Jun (Christmas),MainSkillEvolutionList,1,124201201,132,132.00000286102295
+124201,Jun (Christmas),MainSkillEvolutionList,1,124201204,174,174.0000057220459
 124501,Homare (New Year),Attack,0,0,0,0.0
 124501,Homare (New Year),MainSkillList,0,124500201,51,51.000001430511475
 124501,Homare (New Year),MainSkillList,0,124500202,51,51.000001430511475
@@ -3664,41 +3664,41 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 127801,Wurm,SpecialSkillEvolutionList,0,127811103,1,1.1999999731779099
 127801,Wurm,SpecialSkillEvolutionList,0,127811104,1,1.1999999731779099
 127801,Wurm,SpecialSkillEvolutionList,0,127811105,60,60.0
-127901,Pecorine (Holiday),Attack,1,0,12,12.000000178813934
-127901,Pecorine (Holiday),MainSkillList,1,127900203,90,90.0
-127901,Pecorine (Holiday),MainSkillList,1,127900204,90,90.0
-127901,Pecorine (Holiday),MainSkillList,1,127900201,90,90.0
-127901,Pecorine (Holiday),MainSkillList,1,127900202,90,90.0
-127901,Pecorine (Holiday),MainSkillList,1,127900301,42,41.99999928474426
-127901,Pecorine (Holiday),MainSkillList,1,127900302,90,90.0
-127901,Pecorine (Holiday),MainSkillList,1,127900303,78,77.99999713897705
-127901,Pecorine (Holiday),MainSkillEvolutionList,1,127901203,90,90.0
-127901,Pecorine (Holiday),MainSkillEvolutionList,1,127901204,90,90.0
-127901,Pecorine (Holiday),MainSkillEvolutionList,1,127901201,90,90.0
-127901,Pecorine (Holiday),MainSkillEvolutionList,1,127901205,108,107.99999713897705
-127901,Pecorine (Holiday),MainSkillEvolutionList,1,127901202,90,90.0
-128001,Creditta (Holiday),Attack,0,0,0,0.0
-128001,Creditta (Holiday),MainSkillList,0,128000201,0,0.0
-128001,Creditta (Holiday),MainSkillList,0,128000202,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillList,0,128000203,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillList,0,128000205,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillList,0,128000207,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillList,0,128000204,0,0.0
-128001,Creditta (Holiday),MainSkillList,0,128000206,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillList,0,128000208,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillList,0,128000301,78,77.99999713897705
-128001,Creditta (Holiday),MainSkillList,0,128000303,120,120.0
-128001,Creditta (Holiday),MainSkillList,0,128000302,79,78.59999656677246
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001201,0,0.0
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001202,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001203,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001204,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001205,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001207,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001209,21,20.99999964237213
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001206,0,0.0
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001208,1,1.1999999731779099
-128001,Creditta (Holiday),MainSkillEvolutionList,0,128001210,21,20.99999964237213
+127901,Pecorine (Christmas),Attack,1,0,12,12.000000178813934
+127901,Pecorine (Christmas),MainSkillList,1,127900203,90,90.0
+127901,Pecorine (Christmas),MainSkillList,1,127900204,90,90.0
+127901,Pecorine (Christmas),MainSkillList,1,127900201,90,90.0
+127901,Pecorine (Christmas),MainSkillList,1,127900202,90,90.0
+127901,Pecorine (Christmas),MainSkillList,1,127900301,42,41.99999928474426
+127901,Pecorine (Christmas),MainSkillList,1,127900302,90,90.0
+127901,Pecorine (Christmas),MainSkillList,1,127900303,78,77.99999713897705
+127901,Pecorine (Christmas),MainSkillEvolutionList,1,127901203,90,90.0
+127901,Pecorine (Christmas),MainSkillEvolutionList,1,127901204,90,90.0
+127901,Pecorine (Christmas),MainSkillEvolutionList,1,127901201,90,90.0
+127901,Pecorine (Christmas),MainSkillEvolutionList,1,127901205,108,107.99999713897705
+127901,Pecorine (Christmas),MainSkillEvolutionList,1,127901202,90,90.0
+128001,Creditta (Christmas),Attack,0,0,0,0.0
+128001,Creditta (Christmas),MainSkillList,0,128000201,0,0.0
+128001,Creditta (Christmas),MainSkillList,0,128000202,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillList,0,128000203,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillList,0,128000205,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillList,0,128000207,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillList,0,128000204,0,0.0
+128001,Creditta (Christmas),MainSkillList,0,128000206,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillList,0,128000208,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillList,0,128000301,78,77.99999713897705
+128001,Creditta (Christmas),MainSkillList,0,128000303,120,120.0
+128001,Creditta (Christmas),MainSkillList,0,128000302,79,78.59999656677246
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001201,0,0.0
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001202,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001203,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001204,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001205,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001207,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001209,21,20.99999964237213
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001206,0,0.0
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001208,1,1.1999999731779099
+128001,Creditta (Christmas),MainSkillEvolutionList,0,128001210,21,20.99999964237213
 128301,Inori (New Year),Attack,0,0,30,30.0
 128301,Inori (New Year),MainSkillList,0,128300202,99,98.99999856948853
 128301,Inori (New Year),MainSkillList,0,128300201,0,0.0
@@ -3976,28 +3976,28 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 129601,Anemone,SpecialSkillList,1,129610102,72,72.00000286102295
 129601,Anemone,SpecialSkillList,1,129610103,75,75.0
 129601,Anemone,SpecialSkillList,1,129610104,60,60.0
-129701,Nephi Nella,Attack,1,0,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700202,90,90.0
-129701,Nephi Nella,MainSkillList,1,129700203,90,90.0
-129701,Nephi Nella,MainSkillList,1,129700205,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700206,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700207,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700208,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700209,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700210,105,105.0
-129701,Nephi Nella,MainSkillList,1,129700201,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700204,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700306,72,72.00000286102295
-129701,Nephi Nella,MainSkillList,1,129700301,84,83.99999856948853
-129701,Nephi Nella,MainSkillList,1,129700309,84,83.99999856948853
-129701,Nephi Nella,MainSkillList,1,129700307,120,120.0
-129701,Nephi Nella,MainSkillList,1,129700302,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700308,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700304,1,1.1999999731779099
-129701,Nephi Nella,MainSkillList,1,129700305,0,0.0
-129701,Nephi Nella,MainSkillList,1,129700303,66,66.00000143051147
-129701,Nephi Nella,SpecialSkillList,1,129710102,78,77.99999713897705
-129701,Nephi Nella,SpecialSkillList,1,129710101,90,90.0
+129701,Nephi Nela,Attack,1,0,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700202,90,90.0
+129701,Nephi Nela,MainSkillList,1,129700203,90,90.0
+129701,Nephi Nela,MainSkillList,1,129700205,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700206,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700207,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700208,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700209,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700210,105,105.0
+129701,Nephi Nela,MainSkillList,1,129700201,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700204,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700306,72,72.00000286102295
+129701,Nephi Nela,MainSkillList,1,129700301,84,83.99999856948853
+129701,Nephi Nela,MainSkillList,1,129700309,84,83.99999856948853
+129701,Nephi Nela,MainSkillList,1,129700307,120,120.0
+129701,Nephi Nela,MainSkillList,1,129700302,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700308,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700304,1,1.1999999731779099
+129701,Nephi Nela,MainSkillList,1,129700305,0,0.0
+129701,Nephi Nela,MainSkillList,1,129700303,66,66.00000143051147
+129701,Nephi Nela,SpecialSkillList,1,129710102,78,77.99999713897705
+129701,Nephi Nela,SpecialSkillList,1,129710101,90,90.0
 129801,Makoto (Commander),Attack,1,0,18,18.000000715255737
 129801,Makoto (Commander),MainSkillList,1,129800201,63,62.99999713897705
 129801,Makoto (Commander),MainSkillList,1,129800201,66,66.00000143051147
@@ -4114,31 +4114,31 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 130201,Fubuki,MainSkillEvolutionList,0,130201209,78,77.99999713897705
 130201,Fubuki,MainSkillEvolutionList,0,130201201,12,12.000000178813934
 130201,Fubuki,MainSkillEvolutionList,0,130201207,1,0.5999999865889549
-130701,Kyoka (Spring),Attack,1,0,0,0.0
-130701,Kyoka (Spring),MainSkillList,1,130700201,42,41.99999928474426
-130701,Kyoka (Spring),MainSkillList,1,130700201,51,51.000001430511475
-130701,Kyoka (Spring),MainSkillList,1,130700201,60,60.0
-130701,Kyoka (Spring),MainSkillList,1,130700201,69,68.99999856948853
-130701,Kyoka (Spring),MainSkillList,1,130700201,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillList,1,130700203,90,90.0
-130701,Kyoka (Spring),MainSkillList,1,130700204,90,90.0
-130701,Kyoka (Spring),MainSkillList,1,130700202,84,83.99999856948853
-130701,Kyoka (Spring),MainSkillList,1,130700301,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillList,1,130700302,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillList,1,130700307,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillList,1,130700306,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillList,1,130700304,6,6.000000089406967
-130701,Kyoka (Spring),MainSkillList,1,130700305,9,9.000000357627869
-130701,Kyoka (Spring),MainSkillList,1,130700303,84,83.99999856948853
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701201,42,41.99999928474426
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701201,51,51.000001430511475
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701201,60,60.0
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701201,69,68.99999856948853
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701201,78,77.99999713897705
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701203,90,90.0
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701204,90,90.0
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701205,91,91.19999885559082
-130701,Kyoka (Spring),MainSkillEvolutionList,1,130701202,84,83.99999856948853
+130701,Kyouka (Spring),Attack,1,0,0,0.0
+130701,Kyouka (Spring),MainSkillList,1,130700201,42,41.99999928474426
+130701,Kyouka (Spring),MainSkillList,1,130700201,51,51.000001430511475
+130701,Kyouka (Spring),MainSkillList,1,130700201,60,60.0
+130701,Kyouka (Spring),MainSkillList,1,130700201,69,68.99999856948853
+130701,Kyouka (Spring),MainSkillList,1,130700201,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillList,1,130700203,90,90.0
+130701,Kyouka (Spring),MainSkillList,1,130700204,90,90.0
+130701,Kyouka (Spring),MainSkillList,1,130700202,84,83.99999856948853
+130701,Kyouka (Spring),MainSkillList,1,130700301,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillList,1,130700302,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillList,1,130700307,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillList,1,130700306,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillList,1,130700304,6,6.000000089406967
+130701,Kyouka (Spring),MainSkillList,1,130700305,9,9.000000357627869
+130701,Kyouka (Spring),MainSkillList,1,130700303,84,83.99999856948853
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701201,42,41.99999928474426
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701201,51,51.000001430511475
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701201,60,60.0
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701201,69,68.99999856948853
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701201,78,77.99999713897705
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701203,90,90.0
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701204,90,90.0
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701205,91,91.19999885559082
+130701,Kyouka (Spring),MainSkillEvolutionList,1,130701202,84,83.99999856948853
 130801,Suzume (Spring),Attack,0,0,0,0.0
 130801,Suzume (Spring),MainSkillList,0,130800202,63,62.99999713897705
 130801,Suzume (Spring),MainSkillList,0,130800201,48,48.00000071525574
@@ -4485,66 +4485,66 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 132501,Sono,MainSkillList,0,132500304,1,1.1999999731779099
 132501,Sono,MainSkillList,0,132500305,2,2.3999999463558197
 132501,Sono,MainSkillList,0,132500306,4,3.5999999195337296
-132801,Lyrael (Holiday),Attack,0,0,0,0.0
-132801,Lyrael (Holiday),MainSkillList,0,132800204,25,25.19999921321869
-132801,Lyrael (Holiday),MainSkillList,0,132800205,25,25.19999921321869
-132801,Lyrael (Holiday),MainSkillList,0,132800202,0,0.0
-132801,Lyrael (Holiday),MainSkillList,0,132800202,12,12.000000178813934
-132801,Lyrael (Holiday),MainSkillList,0,132800203,0,0.0
-132801,Lyrael (Holiday),MainSkillList,0,132800203,12,12.000000178813934
-132801,Lyrael (Holiday),MainSkillList,0,132800206,24,24.00000035762787
-132801,Lyrael (Holiday),MainSkillList,0,132800201,0,0.0
-132801,Lyrael (Holiday),MainSkillList,0,132800305,102,102.00000286102295
-132801,Lyrael (Holiday),MainSkillList,0,132800302,96,96.00000143051147
-132801,Lyrael (Holiday),MainSkillList,0,132800304,96,96.00000143051147
-132801,Lyrael (Holiday),MainSkillList,0,132800306,0,0.0
-132801,Lyrael (Holiday),MainSkillList,0,132800307,1,1.1999999731779099
-132801,Lyrael (Holiday),MainSkillList,0,132800308,2,2.3999999463558197
-132801,Lyrael (Holiday),MainSkillList,0,132800309,4,3.5999999195337296
-132801,Lyrael (Holiday),MainSkillList,0,132800303,96,96.00000143051147
-132801,Lyrael (Holiday),MainSkillList,0,132800301,54,53.999998569488525
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801204,25,25.19999921321869
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801205,25,25.19999921321869
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801207,25,25.19999921321869
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801202,0,0.0
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801202,12,12.000000178813934
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801203,0,0.0
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801203,12,12.000000178813934
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801206,24,24.00000035762787
-132801,Lyrael (Holiday),MainSkillEvolutionList,0,132801201,0,0.0
-132901,Io (Holiday),Attack,0,0,12,12.000000178813934
-132901,Io (Holiday),MainSkillList,0,132900201,48,48.00000071525574
-132901,Io (Holiday),MainSkillList,0,132900202,48,48.00000071525574
-132901,Io (Holiday),MainSkillList,0,132900203,102,102.00000286102295
-132901,Io (Holiday),MainSkillList,0,132900204,102,102.00000286102295
-132901,Io (Holiday),MainSkillList,0,132900208,114,113.99999856948853
-132901,Io (Holiday),MainSkillList,0,132900209,114,113.99999856948853
-132901,Io (Holiday),MainSkillList,0,132900207,12,12.000000178813934
-132901,Io (Holiday),MainSkillList,0,132900205,1,1.1999999731779099
-132901,Io (Holiday),MainSkillList,0,132900206,2,2.3999999463558197
-132901,Io (Holiday),MainSkillList,0,132900305,12,12.000000178813934
-132901,Io (Holiday),MainSkillList,0,132900302,150,150.0
-132901,Io (Holiday),MainSkillList,0,132900307,156,155.9999942779541
-132901,Io (Holiday),MainSkillList,0,132900301,138,137.99999713897705
-132901,Io (Holiday),MainSkillList,0,132900306,144,144.0000057220459
-132901,Io (Holiday),MainSkillList,0,132900303,1,1.1999999731779099
-132901,Io (Holiday),MainSkillList,0,132900304,2,2.3999999463558197
-132901,Io (Holiday),MainSkillEvolutionList,0,132901201,48,48.00000071525574
-132901,Io (Holiday),MainSkillEvolutionList,0,132901202,48,48.00000071525574
-132901,Io (Holiday),MainSkillEvolutionList,0,132901203,102,102.00000286102295
-132901,Io (Holiday),MainSkillEvolutionList,0,132901204,102,102.00000286102295
-132901,Io (Holiday),MainSkillEvolutionList,0,132901209,114,113.99999856948853
-132901,Io (Holiday),MainSkillEvolutionList,0,132901210,114,113.99999856948853
-132901,Io (Holiday),MainSkillEvolutionList,0,132901205,103,103.20000171661377
-132901,Io (Holiday),MainSkillEvolutionList,0,132901206,1,1.1999999731779099
-132901,Io (Holiday),MainSkillEvolutionList,0,132901207,2,2.3999999463558197
-132901,Io (Holiday),MainSkillEvolutionList,0,132901208,12,12.000000178813934
-132901,Io (Holiday),SpecialSkillList,0,132910101,0,0.0
-132901,Io (Holiday),SpecialSkillList,0,132910102,144,144.0000057220459
-132901,Io (Holiday),SpecialSkillList,0,132910105,144,144.0000057220459
-132901,Io (Holiday),SpecialSkillList,0,132910103,150,150.0
-132901,Io (Holiday),SpecialSkillList,0,132910106,156,155.9999942779541
-132901,Io (Holiday),SpecialSkillList,0,132910104,12,12.000000178813934
+132801,Lyrael (Christmas),Attack,0,0,0,0.0
+132801,Lyrael (Christmas),MainSkillList,0,132800204,25,25.19999921321869
+132801,Lyrael (Christmas),MainSkillList,0,132800205,25,25.19999921321869
+132801,Lyrael (Christmas),MainSkillList,0,132800202,0,0.0
+132801,Lyrael (Christmas),MainSkillList,0,132800202,12,12.000000178813934
+132801,Lyrael (Christmas),MainSkillList,0,132800203,0,0.0
+132801,Lyrael (Christmas),MainSkillList,0,132800203,12,12.000000178813934
+132801,Lyrael (Christmas),MainSkillList,0,132800206,24,24.00000035762787
+132801,Lyrael (Christmas),MainSkillList,0,132800201,0,0.0
+132801,Lyrael (Christmas),MainSkillList,0,132800305,102,102.00000286102295
+132801,Lyrael (Christmas),MainSkillList,0,132800302,96,96.00000143051147
+132801,Lyrael (Christmas),MainSkillList,0,132800304,96,96.00000143051147
+132801,Lyrael (Christmas),MainSkillList,0,132800306,0,0.0
+132801,Lyrael (Christmas),MainSkillList,0,132800307,1,1.1999999731779099
+132801,Lyrael (Christmas),MainSkillList,0,132800308,2,2.3999999463558197
+132801,Lyrael (Christmas),MainSkillList,0,132800309,4,3.5999999195337296
+132801,Lyrael (Christmas),MainSkillList,0,132800303,96,96.00000143051147
+132801,Lyrael (Christmas),MainSkillList,0,132800301,54,53.999998569488525
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801204,25,25.19999921321869
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801205,25,25.19999921321869
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801207,25,25.19999921321869
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801202,0,0.0
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801202,12,12.000000178813934
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801203,0,0.0
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801203,12,12.000000178813934
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801206,24,24.00000035762787
+132801,Lyrael (Christmas),MainSkillEvolutionList,0,132801201,0,0.0
+132901,Io (Christmas),Attack,0,0,12,12.000000178813934
+132901,Io (Christmas),MainSkillList,0,132900201,48,48.00000071525574
+132901,Io (Christmas),MainSkillList,0,132900202,48,48.00000071525574
+132901,Io (Christmas),MainSkillList,0,132900203,102,102.00000286102295
+132901,Io (Christmas),MainSkillList,0,132900204,102,102.00000286102295
+132901,Io (Christmas),MainSkillList,0,132900208,114,113.99999856948853
+132901,Io (Christmas),MainSkillList,0,132900209,114,113.99999856948853
+132901,Io (Christmas),MainSkillList,0,132900207,12,12.000000178813934
+132901,Io (Christmas),MainSkillList,0,132900205,1,1.1999999731779099
+132901,Io (Christmas),MainSkillList,0,132900206,2,2.3999999463558197
+132901,Io (Christmas),MainSkillList,0,132900305,12,12.000000178813934
+132901,Io (Christmas),MainSkillList,0,132900302,150,150.0
+132901,Io (Christmas),MainSkillList,0,132900307,156,155.9999942779541
+132901,Io (Christmas),MainSkillList,0,132900301,138,137.99999713897705
+132901,Io (Christmas),MainSkillList,0,132900306,144,144.0000057220459
+132901,Io (Christmas),MainSkillList,0,132900303,1,1.1999999731779099
+132901,Io (Christmas),MainSkillList,0,132900304,2,2.3999999463558197
+132901,Io (Christmas),MainSkillEvolutionList,0,132901201,48,48.00000071525574
+132901,Io (Christmas),MainSkillEvolutionList,0,132901202,48,48.00000071525574
+132901,Io (Christmas),MainSkillEvolutionList,0,132901203,102,102.00000286102295
+132901,Io (Christmas),MainSkillEvolutionList,0,132901204,102,102.00000286102295
+132901,Io (Christmas),MainSkillEvolutionList,0,132901209,114,113.99999856948853
+132901,Io (Christmas),MainSkillEvolutionList,0,132901210,114,113.99999856948853
+132901,Io (Christmas),MainSkillEvolutionList,0,132901205,103,103.20000171661377
+132901,Io (Christmas),MainSkillEvolutionList,0,132901206,1,1.1999999731779099
+132901,Io (Christmas),MainSkillEvolutionList,0,132901207,2,2.3999999463558197
+132901,Io (Christmas),MainSkillEvolutionList,0,132901208,12,12.000000178813934
+132901,Io (Christmas),SpecialSkillList,0,132910101,0,0.0
+132901,Io (Christmas),SpecialSkillList,0,132910102,144,144.0000057220459
+132901,Io (Christmas),SpecialSkillList,0,132910105,144,144.0000057220459
+132901,Io (Christmas),SpecialSkillList,0,132910103,150,150.0
+132901,Io (Christmas),SpecialSkillList,0,132910106,156,155.9999942779541
+132901,Io (Christmas),SpecialSkillList,0,132910104,12,12.000000178813934
 133001,Grace,Attack,1,0,0,0.0
 133001,Grace,MainSkillList,1,133000201,48,48.00000071525574
 133001,Grace,MainSkillList,1,133000207,48,48.00000071525574
@@ -5195,54 +5195,54 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 136201,Naana,MainSkillList,1,136200304,1,1.1999999731779099
 136201,Naana,MainSkillList,1,136200306,4,3.5999999195337296
 136201,Naana,MainSkillList,1,136200307,5,4.799999892711639
-136301,Misora (Holiday),Attack,0,0,0,0.0
-136301,Misora (Holiday),MainSkillList,0,136300203,156,155.9999942779541
-136301,Misora (Holiday),MainSkillList,0,136300210,159,159.0000057220459
-136301,Misora (Holiday),MainSkillList,0,136300204,157,157.19999313354492
-136301,Misora (Holiday),MainSkillList,0,136300207,2,2.3999999463558197
-136301,Misora (Holiday),MainSkillList,0,136300209,4,3.5999999195337296
-136301,Misora (Holiday),MainSkillList,0,136300202,48,48.00000071525574
-136301,Misora (Holiday),MainSkillList,0,136300208,48,48.00000071525574
-136301,Misora (Holiday),MainSkillList,0,136300205,158,158.4000062942505
-136301,Misora (Holiday),MainSkillList,0,136300206,158,158.4000062942505
-136301,Misora (Holiday),MainSkillList,0,136300201,47,46.79999828338623
-136301,Misora (Holiday),MainSkillList,0,136300302,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300303,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300304,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300305,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300308,1,1.1999999731779099
-136301,Misora (Holiday),MainSkillList,0,136300307,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300309,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300301,108,107.99999713897705
-136301,Misora (Holiday),MainSkillList,0,136300306,109,109.20000314712524
-136301,Misora (Holiday),MainSkillList,0,136300310,109,109.20000314712524
-136401,Yui (Holiday),MainSkillList,1,136400207,1,1.1999999731779099
-136401,Yui (Holiday),MainSkillList,1,136400205,2,2.3999999463558197
-136401,Yui (Holiday),MainSkillList,1,136400206,4,3.5999999195337296
-136401,Yui (Holiday),MainSkillList,1,136400202,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400203,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400201,108,107.99999713897705
-136401,Yui (Holiday),MainSkillList,1,136400208,115,115.19999742507935
-136401,Yui (Holiday),MainSkillList,1,136400204,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400301,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400302,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400303,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400304,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400305,114,113.99999856948853
-136401,Yui (Holiday),MainSkillList,1,136400306,2,2.3999999463558197
-136401,Yui (Holiday),MainSkillList,1,136400307,4,3.5999999195337296
-136401,Yui (Holiday),MainSkillList,1,136400308,5,4.799999892711639
-136401,Yui (Holiday),MainSkillList,1,136400309,1,1.1999999731779099
-136401,Yui (Holiday),MainSkillList,1,136400310,114,113.99999856948853
-136401,Yui (Holiday),SpecialSkillList,1,136410102,114,113.99999856948853
-136401,Yui (Holiday),SpecialSkillList,1,136410103,114,113.99999856948853
-136401,Yui (Holiday),SpecialSkillList,1,136410107,1,1.1999999731779099
-136401,Yui (Holiday),SpecialSkillList,1,136410101,108,107.99999713897705
-136401,Yui (Holiday),SpecialSkillList,1,136410108,115,115.19999742507935
-136401,Yui (Holiday),SpecialSkillList,1,136410104,114,113.99999856948853
-136401,Yui (Holiday),SpecialSkillList,1,136410105,2,2.3999999463558197
-136401,Yui (Holiday),SpecialSkillList,1,136410106,4,3.5999999195337296
-136401,Yui (Holiday),SpecialSkillList,1,136410109,5,4.799999892711639
+136301,Misora (Christmas),Attack,0,0,0,0.0
+136301,Misora (Christmas),MainSkillList,0,136300203,156,155.9999942779541
+136301,Misora (Christmas),MainSkillList,0,136300210,159,159.0000057220459
+136301,Misora (Christmas),MainSkillList,0,136300204,157,157.19999313354492
+136301,Misora (Christmas),MainSkillList,0,136300207,2,2.3999999463558197
+136301,Misora (Christmas),MainSkillList,0,136300209,4,3.5999999195337296
+136301,Misora (Christmas),MainSkillList,0,136300202,48,48.00000071525574
+136301,Misora (Christmas),MainSkillList,0,136300208,48,48.00000071525574
+136301,Misora (Christmas),MainSkillList,0,136300205,158,158.4000062942505
+136301,Misora (Christmas),MainSkillList,0,136300206,158,158.4000062942505
+136301,Misora (Christmas),MainSkillList,0,136300201,47,46.79999828338623
+136301,Misora (Christmas),MainSkillList,0,136300302,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300303,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300304,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300305,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300308,1,1.1999999731779099
+136301,Misora (Christmas),MainSkillList,0,136300307,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300309,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300301,108,107.99999713897705
+136301,Misora (Christmas),MainSkillList,0,136300306,109,109.20000314712524
+136301,Misora (Christmas),MainSkillList,0,136300310,109,109.20000314712524
+136401,Yui (Christmas),MainSkillList,1,136400207,1,1.1999999731779099
+136401,Yui (Christmas),MainSkillList,1,136400205,2,2.3999999463558197
+136401,Yui (Christmas),MainSkillList,1,136400206,4,3.5999999195337296
+136401,Yui (Christmas),MainSkillList,1,136400202,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400203,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400201,108,107.99999713897705
+136401,Yui (Christmas),MainSkillList,1,136400208,115,115.19999742507935
+136401,Yui (Christmas),MainSkillList,1,136400204,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400301,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400302,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400303,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400304,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400305,114,113.99999856948853
+136401,Yui (Christmas),MainSkillList,1,136400306,2,2.3999999463558197
+136401,Yui (Christmas),MainSkillList,1,136400307,4,3.5999999195337296
+136401,Yui (Christmas),MainSkillList,1,136400308,5,4.799999892711639
+136401,Yui (Christmas),MainSkillList,1,136400309,1,1.1999999731779099
+136401,Yui (Christmas),MainSkillList,1,136400310,114,113.99999856948853
+136401,Yui (Christmas),SpecialSkillList,1,136410102,114,113.99999856948853
+136401,Yui (Christmas),SpecialSkillList,1,136410103,114,113.99999856948853
+136401,Yui (Christmas),SpecialSkillList,1,136410107,1,1.1999999731779099
+136401,Yui (Christmas),SpecialSkillList,1,136410101,108,107.99999713897705
+136401,Yui (Christmas),SpecialSkillList,1,136410108,115,115.19999742507935
+136401,Yui (Christmas),SpecialSkillList,1,136410104,114,113.99999856948853
+136401,Yui (Christmas),SpecialSkillList,1,136410105,2,2.3999999463558197
+136401,Yui (Christmas),SpecialSkillList,1,136410106,4,3.5999999195337296
+136401,Yui (Christmas),SpecialSkillList,1,136410109,5,4.799999892711639
 136501,Shizuru (New Year),Attack,0,0,12,12.000000178813934
 136501,Shizuru (New Year),MainSkillList,0,136500203,106,106.19999885559082
 136501,Shizuru (New Year),MainSkillList,0,136500204,108,107.99999713897705
@@ -5387,30 +5387,30 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 138101,Lyrael (Perfect),SpecialSkillList,0,138110208,4,3.5999999195337296
 138101,Lyrael (Perfect),SpecialSkillList,0,138110202,0,0.0
 138101,Lyrael (Perfect),SpecialSkillList,0,138110203,0,0.0
-138201,Nephi Nella (Buddha),Attack,1,0,0,0.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200202,78,77.99999713897705
-138201,Nephi Nella (Buddha),MainSkillList,1,138200202,90,90.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200209,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200209,114,113.99999856948853
-138201,Nephi Nella (Buddha),MainSkillList,1,138200201,72,72.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200204,72,72.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200206,72,72.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200207,73,73.20000171661377
-138201,Nephi Nella (Buddha),MainSkillList,1,138200203,0,0.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200205,0,0.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200208,1,1.1999999731779099
-138201,Nephi Nella (Buddha),MainSkillList,1,138200304,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200312,108,107.99999713897705
-138201,Nephi Nella (Buddha),MainSkillList,1,138200305,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200301,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200302,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200307,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200308,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200306,0,0.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200309,6,6.000000089406967
-138201,Nephi Nella (Buddha),MainSkillList,1,138200311,0,0.0
-138201,Nephi Nella (Buddha),MainSkillList,1,138200303,102,102.00000286102295
-138201,Nephi Nella (Buddha),MainSkillList,1,138200310,107,106.79999828338623
+138201,Nephi Nela (Buddha),Attack,1,0,0,0.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200202,78,77.99999713897705
+138201,Nephi Nela (Buddha),MainSkillList,1,138200202,90,90.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200209,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200209,114,113.99999856948853
+138201,Nephi Nela (Buddha),MainSkillList,1,138200201,72,72.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200204,72,72.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200206,72,72.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200207,73,73.20000171661377
+138201,Nephi Nela (Buddha),MainSkillList,1,138200203,0,0.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200205,0,0.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200208,1,1.1999999731779099
+138201,Nephi Nela (Buddha),MainSkillList,1,138200304,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200312,108,107.99999713897705
+138201,Nephi Nela (Buddha),MainSkillList,1,138200305,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200301,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200302,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200307,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200308,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200306,0,0.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200309,6,6.000000089406967
+138201,Nephi Nela (Buddha),MainSkillList,1,138200311,0,0.0
+138201,Nephi Nela (Buddha),MainSkillList,1,138200303,102,102.00000286102295
+138201,Nephi Nela (Buddha),MainSkillList,1,138200310,107,106.79999828338623
 138301,Pecorine (Astraea),Attack,0,0,0,0.0
 138301,Pecorine (Astraea),MainSkillList,0,138300201,117,117.00000286102295
 138301,Pecorine (Astraea),MainSkillList,0,138300202,120,120.0
@@ -5458,27 +5458,27 @@ unit_id,unit_name,category,use_default_delay,action_id,frame,frame_raw
 138701,Wakana (Winter),MainSkillList,0,138700308,144,144.0000057220459
 138701,Wakana (Winter),MainSkillList,0,138700307,145,145.20000457763672
 138701,Wakana (Winter),MainSkillList,0,138700305,144,144.0000057220459
-138801,Shiori (Wnter),MainSkillList,1,138800201,96,96.00000143051147
-138801,Shiori (Wnter),MainSkillList,1,138800205,120,120.0
-138801,Shiori (Wnter),MainSkillList,1,138800202,102,102.00000286102295
-138801,Shiori (Wnter),MainSkillList,1,138800203,102,102.00000286102295
-138801,Shiori (Wnter),MainSkillList,1,138800206,126,125.9999942779541
-138801,Shiori (Wnter),MainSkillList,1,138800207,126,125.9999942779541
-138801,Shiori (Wnter),MainSkillList,1,138800209,144,144.0000057220459
-138801,Shiori (Wnter),MainSkillList,1,138800204,108,107.99999713897705
-138801,Shiori (Wnter),MainSkillList,1,138800208,132,132.00000286102295
-138801,Shiori (Wnter),MainSkillList,1,138800210,145,145.20000457763672
-138801,Shiori (Wnter),MainSkillList,1,138800301,1,1.1999999731779099
-138801,Shiori (Wnter),MainSkillList,1,138800302,0,0.0
-138801,Shiori (Wnter),MainSkillList,1,138800303,2,2.3999999463558197
-138801,Shiori (Wnter),MainSkillList,1,138800304,48,48.00000071525574
-138801,Shiori (Wnter),MainSkillList,1,138800305,49,49.19999957084656
-138801,Shiori (Wnter),MainSkillList,1,138800306,54,53.999998569488525
-138801,Shiori (Wnter),MainSkillList,1,138800308,50,50.39999842643738
-138801,Shiori (Wnter),MainSkillList,1,138800311,52,51.600000858306885
-138801,Shiori (Wnter),MainSkillList,1,138800307,0,0.0
-138801,Shiori (Wnter),MainSkillList,1,138800309,0,0.0
-138801,Shiori (Wnter),MainSkillList,1,138800310,50,50.39999842643738
+138801,Shiori (Winter),MainSkillList,1,138800201,96,96.00000143051147
+138801,Shiori (Winter),MainSkillList,1,138800205,120,120.0
+138801,Shiori (Winter),MainSkillList,1,138800202,102,102.00000286102295
+138801,Shiori (Winter),MainSkillList,1,138800203,102,102.00000286102295
+138801,Shiori (Winter),MainSkillList,1,138800206,126,125.9999942779541
+138801,Shiori (Winter),MainSkillList,1,138800207,126,125.9999942779541
+138801,Shiori (Winter),MainSkillList,1,138800209,144,144.0000057220459
+138801,Shiori (Winter),MainSkillList,1,138800204,108,107.99999713897705
+138801,Shiori (Winter),MainSkillList,1,138800208,132,132.00000286102295
+138801,Shiori (Winter),MainSkillList,1,138800210,145,145.20000457763672
+138801,Shiori (Winter),MainSkillList,1,138800301,1,1.1999999731779099
+138801,Shiori (Winter),MainSkillList,1,138800302,0,0.0
+138801,Shiori (Winter),MainSkillList,1,138800303,2,2.3999999463558197
+138801,Shiori (Winter),MainSkillList,1,138800304,48,48.00000071525574
+138801,Shiori (Winter),MainSkillList,1,138800305,49,49.19999957084656
+138801,Shiori (Winter),MainSkillList,1,138800306,54,53.999998569488525
+138801,Shiori (Winter),MainSkillList,1,138800308,50,50.39999842643738
+138801,Shiori (Winter),MainSkillList,1,138800311,52,51.600000858306885
+138801,Shiori (Winter),MainSkillList,1,138800307,0,0.0
+138801,Shiori (Winter),MainSkillList,1,138800309,0,0.0
+138801,Shiori (Winter),MainSkillList,1,138800310,50,50.39999842643738
 170101,Djeeta,Attack,1,0,0,0.0
 170101,Djeeta,MainSkillList,1,105700201,18,18.000000715255737
 170101,Djeeta,MainSkillList,1,105700201,66,66.00000143051147
