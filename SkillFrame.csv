@@ -31,7 +31,7 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 103201,Akino,69,125,189,0
 103301,Mahiru,71,121,121,0
 103401,Yukari,69,121,137,0
-103601,Kyoka,85,131,111,0
+103601,Kyouka,85,131,111,0
 103701,Tomo,71,151,113,0
 103801,Shiori,91,159,115,0
 104001,Aoi,91,141,141,0
@@ -73,9 +73,9 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 108101,Shinobu (Halloween),93,119,125,0
 108201,Miyako (Halloween),63,167,161,0
 108301,Misaki (Halloween),85,161,161,0
-108401,Chika (Holiday),85,131,157,0
-108501,Kurumi (Holiday),93,35,135,0
-108601,Ayane (Holiday),93,109,115,0
+108401,Chika (Christmas),85,131,157,0
+108501,Kurumi (Christmas),93,35,135,0
+108601,Ayane (Christmas),93,109,115,0
 108701,Hiyori (New Year),63,121,125,0
 108801,Yui (New Year),85,121,131,0
 108901,Rei (New Year),71,55,121,0
@@ -100,19 +100,19 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 110801,Chloe,65,161,171,0
 110901,Chieru,63,151,161,0
 111001,Yuni,71,171,171,0
-111101,Kyoka (Halloween),85,141,159,0
+111101,Kyouka (Halloween),85,141,159,0
 111201,Misogi (Halloween),63,161,161,0
 111301,Mimi (Halloween),69,201,181,0
 111401,Luna,91,161,161,161
-111501,Christina (Holiday),71,161,147,0
-111601,Nozomi (Holiday),71,161,151,0
-111701,Illya (Holiday),93,157,161,0
+111501,Christina (Christmas),71,161,147,0
+111601,Nozomi (Christmas),71,161,151,0
+111701,Illya (Christmas),93,157,161,0
 111801,Pecorine (New Year),71,161,141,0
 111901,Kokkoro (New Year),71,177,161,0
 112001,Kyaru (New Year),85,161,161,0
 112101,Suzume (New Year),85,161,161,0
-112201,Kasumi (Magical),85,161,161,0
-112301,Shiori (Magical),91,143,361,0
+112201,Kasumi (Magical Girl),85,161,161,0
+112301,Shiori (Magical Girl),91,143,361,0
 112401,Uzuki (IM@S CG),71,141,155,0
 112501,Rin (IM@S CG),71,161,161,0
 112601,Mio (IM@S CG),85,151,157,0
@@ -131,11 +131,11 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 113901,Tsumugi (Halloween),65,161,151,0
 114001,Rei (Halloween),71,161,151,0
 114101,Matsuri (Halloween),63,91,161,0
-114201,Monika (Magical),71,157,159,0
-114301,Tomo (Magical),71,161,161,71
-114401,Akino (Holiday),69,161,129,129
-114501,Saren (Holiday),71,161,161,0
-114601,Yukari (Holiday),69,161,147,0
+114201,Monika (Magical Girl),71,157,159,0
+114301,Tomo (Magical Girl),71,161,161,71
+114401,Akino (Christmas),69,161,129,129
+114501,Saren (Christmas),71,161,161,0
+114601,Yukari (Christmas),69,161,147,0
 114701,Muimi (New Year),65,1,109,0
 115001,Neneka (New Year),85,161,161,0
 115501,Kokkoro (Ceremonial),65,151,161,0
@@ -169,9 +169,9 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 118601,Nebbia,83,161,161,101
 119001,Io (Noir),85,157,141,0
 119101,Kuuka (Noir),71,161,161,0
-119201,Mahiru (Holiday),71,161,161,0
-119301,Rino (Holiday),91,161,161,0
-119901,Miyako (Holiday),63,161,181,0
+119201,Mahiru (Christmas),71,161,161,0
+119301,Rino (Christmas),91,161,161,0
+119901,Miyako (Christmas),63,161,181,0
 120001,Shizuru (Noir),69,151,141,0
 120701,Sheffy (New Year),71,161,111,0
 120801,Ruka (New Year),71,161,141,161
@@ -191,7 +191,7 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 122401,Hiyori (Summer),63,161,161,0
 122501,Rei (Summer),71,161,155,0
 122601,Yui (Summer),85,161,161,0
-122701,Kyoka (Summer),85,161,155,111
+122701,Kyouka (Summer),85,161,155,111
 122801,Misogi (Summer),63,141,161,0
 122901,Mimi (Summer),69,161,161,0
 123001,Ameth,83,161,161,83
@@ -204,9 +204,9 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 123701,Nanaka (Halloween),85,143,161,0
 123801,Christina (Wild),63,1,151,0
 123901,Matsuri (Wild),65,161,161,0
-124001,Akari (Holiday),85,161,161,0
-124101,Yori (Holiday),71,161,161,0
-124201,Jun (Holiday),69,155,161,0
+124001,Akari (Christmas),85,161,161,0
+124101,Yori (Christmas),71,161,161,0
+124201,Jun (Christmas),69,155,161,0
 124501,Homare (New Year),85,129,127,0
 124601,Misato (New Year),85,159,161,0
 124701,Mitsuki (New Year),69,149,123,0
@@ -239,8 +239,8 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 127601,Ruka (Salasaria),71,161,161,0
 127701,Lind,71,161,161,0
 127801,Wurm,65,53,161,161
-127901,Pecorine (Holiday),69,161,145,0
-128001,Creditta (Holiday),71,161,161,0
+127901,Pecorine (Christmas),69,161,145,0
+128001,Creditta (Christmas),71,161,161,0
 128301,Inori (New Year),93,161,71,0
 128401,Hatsune (New Year),85,161,161,0
 128501,Kasumi (New Year),85,111,161,0
@@ -252,13 +252,13 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 129401,Chloe (Winter),65,161,143,115
 129501,Chieru (Winter),63,161,161,161
 129601,Anemone,69,161,161,151
-129701,Nephi Nella,93,161,161,111
+129701,Nephi Nela,93,161,161,111
 129801,Makoto (Commander),69,161,161,0
 129901,Eriko (Commander),71,161,161,0
 130001,Yamato,83,161,161,161
 130101,Wakana,85,161,161,141
 130201,Fubuki,69,161,161,0
-130701,Kyoka (Spring),85,161,161,0
+130701,Kyouka (Spring),85,161,161,0
 130801,Suzume (Spring),85,161,161,0
 130901,Kururu,85,161,161,0
 131001,Maho (Dream Park),85,161,161,0
@@ -274,8 +274,8 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 132301,Louise-Marie,85,161,161,0
 132401,Iroha,69,241,241,241
 132501,Sono,71,161,161,0
-132801,Lyrael (Holiday),83,141,161,0
-132901,Io (Holiday),69,161,161,161
+132801,Lyrael (Christmas),83,141,161,0
+132901,Io (Christmas),69,161,161,161
 133001,Grace,71,149,161,0
 133101,Violet,91,161,147,161
 133201,Monika (New Year),71,161,161,0
@@ -305,8 +305,8 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 136001,Arachne,93,177,161,161
 136101,Sakura,87,161,161,161
 136201,Naana,93,161,161,0
-136301,Misora (Holiday),71,161,161,0
-136401,Yui (Holiday),85,161,161,161
+136301,Misora (Christmas),71,161,161,0
+136401,Yui (Christmas),85,161,161,161
 136501,Shizuru (New Year),69,161,161,0
 137101,Ninon (Summer),65,161,161,0
 137401,Kasumi (Sister),85,161,161,161
@@ -314,10 +314,10 @@ unit_id,unit_name,attack,skill1,skill2,skillsp1
 137901,Rino (New Year),91,161,155,0
 138001,Violet (Isanami),91,161,161,1
 138101,Lyrael (Perfect),81,161,161,161
-138201,Nephi Nella (Buddha),93,161,161,0
+138201,Nephi Nela (Buddha),93,161,161,0
 138301,Pecorine (Astraea),77,161,161,0
 138701,Wakana (Winter),85,161,161,0
-138801,Shiori (Wnter),91,161,161,0
+138801,Shiori (Winter),91,161,161,0
 170101,Djeeta,79,161,141,0
 180101,Hiyori (Princess),63,151,161,0
 180201,Yui (Princess),85,161,161,0
